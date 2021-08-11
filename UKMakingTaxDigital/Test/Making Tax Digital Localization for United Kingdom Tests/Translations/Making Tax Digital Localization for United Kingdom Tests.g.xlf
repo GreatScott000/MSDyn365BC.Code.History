@@ -63,11 +63,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Test Fraud Prevention Hdrs - NamedType MissingHeadersMsg</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3288911696 - NamedType 3355038226" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Communication with HMRC without fraud prevention headers is not allowed. Set up the missing headers in the HMRC Fraud Prevention Headers Setup page, and specify a default value for each of them. Choose the Get Current Headers action to see which headers cannot be retrieved automatically.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Test Fraud Prevention Hdrs - NamedType OpenHeadersSetupMsg</note>
-        </trans-unit>
         <trans-unit id="Codeunit 2445249313 - NamedType 94923679" size-unit="char" translate="yes" xml:space="preserve">
           <source>Get VAT Liabilities</source>
           <note from="Developer" annotates="general" priority="2"></note>
