@@ -126,13 +126,13 @@
                         "path":  ".\\salesandinventoryforecast\\test\\Sales and Inventory Forecast Tests"
                     },
                     {
-                        "path":  ".\\system application\\test\\System Application Test"
+                        "path":  ".\\System Application\\test\\System Application Test"
                     },
                     {
-                        "path":  ".\\system application\\test\\System Application Test Library"
+                        "path":  ".\\System Application\\test\\System Application Test Library"
                     },
                     {
-                        "path":  ".\\system application\\test\\System Application Test\\Extension Management\\testArtifacts"
+                        "path":  ".\\System Application\\test\\System Application Test\\Extension Management\\testArtifacts"
                     },
                     {
                         "path":  ".\\TestFramework\\TestLibraries"
