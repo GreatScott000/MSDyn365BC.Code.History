@@ -8262,7 +8262,7 @@
         </trans-unit>
         <trans-unit id="Page 383217645 - Control 89296664 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Microsoft account that this user uses to sign in to Office 365 or SharePoint Online.</source>
-          <target state="translated">Angir Microsoft-kontoen som denne brukeren bruker til å logge på Office 365 eller SharePoint Online.</target>
+          <target state="translated">Angir Microsoft-kontoen som denne brukeren bruker til å logge seg på Office 365 eller SharePoint Online.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page User Lookup - Control Authentication Email - Property ToolTip</note>
         </trans-unit>
