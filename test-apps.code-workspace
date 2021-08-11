@@ -141,10 +141,10 @@
                         "path":  ".\\System Application\\Test\\System Application Test\\Extension Management\\testArtifacts"
                     },
                     {
-                        "path":  ".\\TestFramework\\TestLibraries"
+                        "path":  ".\\testframework\\TestLibraries"
                     },
                     {
-                        "path":  ".\\TestFramework\\TestRunner\\Test Runner"
+                        "path":  ".\\testframework\\TestRunner\\Test Runner"
                     },
                     {
                         "path":  ".\\UKSendRemittanceAdvice\\Test\\Send remittance advice by email Tests"
