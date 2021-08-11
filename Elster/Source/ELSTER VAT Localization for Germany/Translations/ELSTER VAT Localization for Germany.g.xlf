@@ -438,11 +438,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales VAT Adv. Notif. Card - NamedType Text1140001Lbl</note>
         </trans-unit>
-        <trans-unit id="Page 1934416626 - NamedType 3000237538" size-unit="char" translate="no" xml:space="preserve">
-          <source>%1..</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Sales VAT Adv. Notif. Card - NamedType DateFilterLbl</note>
-        </trans-unit>
         <trans-unit id="Page 323663860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales VAT Advance Notification List</source>
           <note from="Developer" annotates="general" priority="2"></note>
