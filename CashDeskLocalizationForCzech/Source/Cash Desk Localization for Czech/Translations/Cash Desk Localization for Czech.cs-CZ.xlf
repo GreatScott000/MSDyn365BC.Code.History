@@ -2445,6 +2445,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocReleasedEventDescTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2944632038 - NamedType 4187419852" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Document Approval Workflow</source>
+          <target state="translated">Workflow schvalování pokladního dokladu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocApprWorkflowDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2944632038 - NamedType 2357359545" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Document</source>
+          <target state="translated">Pokladní doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocumentDescTxt</note>
+        </trans-unit>
         <trans-unit id="Page 4198796310 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cash Desk Activities</source>
           <target state="translated">Aktivity pokladny</target>
@@ -2669,13 +2681,13 @@
         </trans-unit>
         <trans-unit id="Page 4259462887 - Control 1064988743 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies whether to allow the manual adjustment of VAT amounts in cash documents.</source>
-          <target state="translated">Určuje, zda chcete povolit ruční adjustaci částek DPH v pokladních dokladech.</target>
+          <target state="translated">Určuje, zda chcete povolit ruční úpravu částek DPH v pokladních dokladech.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Cash Desk Card CZP - Control Allow VAT Difference - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4259462887 - Control 1777763221 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies whether entries will be excluded from exchange rates adjustment.</source>
-          <target state="translated">Určuje, zda budou položky vyloučeny z adjustace směnných kurzů.</target>
+          <target state="translated">Určuje, zda budou položky vyloučeny z úpravy směnných kurzů.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Cash Desk Card CZP - Control Exclude from Exch. Rate Adj. - Property ToolTip</note>
         </trans-unit>

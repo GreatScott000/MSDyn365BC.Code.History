@@ -3843,6 +3843,12 @@
           <note from="Developer" annotates="general" priority="2">N</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VIES Declaration Line CZL - NamedType CancelNoTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1377497134 - NamedType 917367647" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record type %1 is not supported by this workflow response.</source>
+          <target state="translated">Typ záznamu %1 není podporován touto odezvou workflow.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = record type; Record type Customer is not supported by this workflow response.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approvals Management CZL - NamedType UnsupportedRecordTypeErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2656224564 - NamedType 3055841843" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Czech National Bank Currency Exchange Rates Setup</source>
           <target state="translated">Nastavení směnných kurzů České národní banky</target>
@@ -4766,6 +4772,24 @@
           <target state="translated">uzel XML %1 nelze najít.</target>
           <note from="Developer" annotates="general" priority="2">%1=NodePath</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Stmt XML Export Helper CZL - NamedType XmlNodeNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 221338882" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set document status to Approved.</source>
+          <target state="translated">Nastavte stav dokladu na Schváleno.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType SetStatusToApprovedTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 514946724" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check release the document.</source>
+          <target state="translated">Zkontrolovat vydání dokladu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType CheckReleaseDocumentTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 917367647" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record type %1 is not supported by this workflow response.</source>
+          <target state="translated">Typ záznamu %1 není podporován touto odezvou workflow.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = record type; Record type Customer is not supported by this workflow response.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType UnsupportedRecordTypeErr</note>
         </trans-unit>
         <trans-unit id="Page 709006365 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Acc. Schedule Line List</source>
