@@ -1983,6 +1983,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Detailed GST Ledger Entry - Field Payment Type - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3664566763 - Field 3171485793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post GST to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed GST Ledger Entry - Field Post GST to Customer - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3664566763 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posting Date</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -9573,6 +9578,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Base Validation - NamedType POSLOCDiffErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2293320866 - NamedType 1214195065" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only allow for GST Customer type SEZ Development &amp; SEZ Unit.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Base Validation - NamedType PostGSTtoCustErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2293320866 - NamedType 2271677156" size-unit="char" translate="yes" xml:space="preserve">
           <source>In GST Registration No from postion 3 to 12 the value should be same as the PAN No. %1.</source>
           <note from="Developer" annotates="general" priority="2">%1 = PANNo</note>
@@ -10018,6 +10028,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Purchase Subscribers - NamedType GSTRegNoErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3536484230 - NamedType 4269521070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GST is not applicable for Unregistered Vendors.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Purchase Subscribers - NamedType GSTUnregisteredNotAppErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3536484230 - NamedType 3472337283" size-unit="char" translate="yes" xml:space="preserve">
           <source>GST Vendor Type must be %1 or %2.</source>
           <note from="Developer" annotates="general" priority="2">%1 = Import ; %2 = SEZ</note>
@@ -10218,6 +10233,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Sales Validation - NamedType AppliesToDocErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 378964061 - NamedType 564965020" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All lines in the document are GST Exempted, the preferred Invoice type should be Bill of Supply.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Sales Validation - NamedType ExemptedLinesErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 378964061 - NamedType 719772468" size-unit="char" translate="yes" xml:space="preserve">
           <source>Either GST Registration No. or ARN No. should have a value.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -10263,6 +10283,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Sales Validation - NamedType NGLStructErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 378964061 - NamedType 3911566841" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All lines in the document are not GST Exempted, the preferred Invoice type should be according to GST Customer Type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Sales Validation - NamedType NonExemptedLinesErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 378964061 - NamedType 217199021" size-unit="char" translate="yes" xml:space="preserve">
           <source>You cannot enter Non-GST Invoice Type for any GST document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -10282,6 +10307,11 @@
           <source>You can not select POS Out Of India field without GST Invoice.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Sales Validation - NamedType POSGSTInvoiceErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 378964061 - NamedType 1214195065" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only allow for GST Customer type SEZ Development &amp; SEZ Unit.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GST Sales Validation - NamedType PostGSTtoCustErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 378964061 - NamedType 3355982385" size-unit="char" translate="yes" xml:space="preserve">
           <source>Selected Document No does not exit for Reference Invoice No.</source>
@@ -11862,6 +11892,16 @@
           <source>Specifies the rework component quantity of the item is linked to.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Delivery Challan Subform - Control Components in Rework Qty. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029648869 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the GST Group code for the calculation of GST on Delivery Challan line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Delivery Challan Subform - Control GST Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029648869 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Delivery Challan line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Delivery Challan Subform - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3029648869 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the item number of this document.</source>
@@ -16138,6 +16178,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Journal Bank Charges - Control GST Document Type - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 1568685946 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the GST Group code for the calculation of GST on Bank Charges line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Journal Bank Charges - Control GST Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1568685946 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Bank Charges line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Journal Bank Charges - Control HSN/SAC Code - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1568685946 - Control 1814873746 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if the transaction is in local currency.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -16157,6 +16207,16 @@
           <source>Specifies the subcontracting order number.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Multi Delivery Challan Subform - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3811618198 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the GST Group code for the calculation of GST on Delivery Challan line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multi Delivery Challan Subform - Control GST Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3811618198 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Delivery Challan line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Multi Delivery Challan Subform - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3811618198 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the component code for the parent item.</source>
@@ -19578,10 +19638,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Rcpt. Subform - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2656130129 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the GST Group code for the calculation of GST on Service line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Rcpt. Subform - Control GST Group Code - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2656130129 - Control 4271247666 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the general ledger account number which will be used as receive control account.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Rcpt. Subform - Control Receive Control A/C No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2656130129 - Control 1206733632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the SAC code for the calculation of GST on Service line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Rcpt. Subform - Control SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2656130129 - Control 1090071933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies whether the transaction has been shipped or not.</source>
@@ -19617,6 +19687,16 @@
           <source>Specifies if the shipment line is exempted from GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Ship Subform - Control Exempted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279667746 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the GST Group code for the calculation of GST on Service line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Ship Subform - Control GST Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279667746 - Control 1206733632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the SAC code for the calculation of GST on Service line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Service Transfer Ship Subform - Control SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2279667746 - Control 2623301737 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies general ledger account number which will be used for ship control.</source>
@@ -20834,7 +20914,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Subcontracting Order Subform - Control GST Credit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 720507622 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies GST group code.</source>
+          <source>Specifies the GST Group code for the calculation of GST on Transaction line.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Subcontracting Order Subform - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -20847,6 +20927,11 @@
           <source>Specifies the type related to GST jurisdiction. For example, interstate/intrastate.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Subcontracting Order Subform - Control GST Jurisdiction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 720507622 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Transaction line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Subcontracting Order Subform - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 720507622 - Control 1329258699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the IC partner code this order is linked to.</source>
@@ -22538,6 +22623,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Blanket Purch Ord Subform - Control GST Jurisdiction Type - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4244928168 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1843696368">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Purchase line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Blanket Purch Ord Subform - Control HSN/SAC Code - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1973252290 - Control 2415490678 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2965669802">
           <source>Specifies the entry date defined in bill of entry document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22597,6 +22687,11 @@
           <source>Specifies if GST is applicable on assessable value.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Blanket Sales ord Sub - Control GST on Assessable Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4193231882 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 884441745">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Blanket Sales ord Sub - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1970053711 - Control 3370547937 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
           <source>Specifies the bill-to state code of the customer on the sales document.</source>
@@ -22939,7 +23034,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Finance Charge Memo Lines - Control Exempted - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2333945143 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2006185295">
-          <source>Specifies an identifier for the GST group  used to calculate and post GST.</source>
+          <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Finance Charge Memo Lines - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -24814,7 +24909,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Credit Subform Ext - Control GST Credit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3101966928 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521900543">
-          <source>Specifies an identifier for the GST group  used to calculate and post GST.</source>
+          <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Credit Subform Ext - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -24827,6 +24922,11 @@
           <source>Specifies the type related to GST jurisdiction. For example, interstate/intrastate.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Credit Subform Ext - Control GST Jurisdiction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3101966928 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521900543">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Purchase line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Credit Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3520095244 - Control 2635586661 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
           <source>Specifies the custom duty amount  on the transfer line.</source>
@@ -24849,7 +24949,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Invoice Subform Ext - Control GST Credit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3520095244 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
-          <source>Specifies GST group code.</source>
+          <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Invoice Subform Ext - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -24862,6 +24962,11 @@
           <source>Specifies the type related to GST jurisdiction. For example, interstate/intrastate.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Invoice Subform Ext - Control GST Jurisdiction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3520095244 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Purchase line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Invoice Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2044616483 - Control 2635586661 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2937746743">
           <source>Specifies the custom duty amount  on the Purchase Return.</source>
@@ -24884,7 +24989,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Return Order Subfm - Control GST Credit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2044616483 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2937746743">
-          <source>Specifies an identifier for the GST group  used to calculate and post GST.</source>
+          <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Return Order Subfm - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -24897,6 +25002,11 @@
           <source>Specifies the type related to GST jurisdiction. For example, interstate/intrastate.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Return Order Subfm - Control GST Jurisdiction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2044616483 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2937746743">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Purchase line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purch. Return Order Subfm - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4199216519 - Action 1481724448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4042331808">
           <source>Specifies the function through which reference number can be updated in the document.</source>
@@ -25489,7 +25599,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purchase Order Subform Ext - Control GST Credit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3667572394 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
-          <source>Specifies GST group code.</source>
+          <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purchase Order Subform Ext - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -25502,6 +25612,11 @@
           <source>Specifies the type related to GST jurisdiction. For example, interstate/intrastate.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purchase Order Subform Ext - Control GST Jurisdiction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3667572394 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Purchase line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purchase Order Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 150911828 - Control 1939056418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
           <source>Specifies if Vendor is an associated enterprises</source>
@@ -25597,6 +25712,11 @@
           <source>Specifies the type related to GST jurisdiction. For example, interstate/intrastate.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purchase Quote Subform Ext - Control GST Jurisdiction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3726704798 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 997943925">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Purchase line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Purchase Quote Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 224221209 - Action 1481724448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1555938241">
           <source>Specifies the function through which reference number can be updated in the document.</source>
@@ -25873,6 +25993,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Credit Memo Ext - Control POS Out Of India - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1648643826 - Control 3171485793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
+          <source>Specifies if the GST amount post to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Credit Memo Ext - Control Post GST to Customer - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1648643826 - Control 4137645431 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
           <source>Specifies the Reference Invoice number.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26018,6 +26143,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Invoice Ext - Control POS Out Of India - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2823296164 - Control 3171485793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Specifies if the GST amount post to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Invoice Ext - Control Post GST to Customer - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2823296164 - Control 564832403 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
           <source>Specifies if rate change is applicable on the sales document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26112,6 +26242,11 @@
           <source>Specifies the GST Place of Supply. For example Bill-to Address, Ship-to Address, Location Address etc.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Invoice Subform Ext - Control GST Place Of Supply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4108601038 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Invoice Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4108601038 - Control 1429998465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
           <source>Specifies if prices are exclusive of tax on the line.</source>
@@ -26273,6 +26408,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Order Ext - Control POS Out Of India - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3119262329 - Control 3171485793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies if the GST amount post to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Order Ext - Control Post GST to Customer - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3119262329 - Control 564832403 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
           <source>Specifies if rate change is applicable on the sales document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26338,11 +26478,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Order Subform Ext - Control GST Assessable Value (LCY) - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 33433679 - Control 574103807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
-          <source>Specifies if the GST credit has to be availed or not.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Order Subform Ext - Control GST Credit - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="PageExtension 33433679 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
           <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26367,6 +26502,11 @@
           <source>Specifies the GST Place of Supply. For example Bill-to Address, Ship-to Address, Location Address etc.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Order Subform Ext - Control GST Place Of Supply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 33433679 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Order Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 33433679 - Control 1429998465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
           <source>Specifies if the price in inclusive of tax for the line.</source>
@@ -26448,6 +26588,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Quote Ext - Control Reference Invoice No. - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2519103331 - Control 3994976796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
+          <source>Specifies if the current line is exempted of GST Calculation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Quote Subform Ext - Control Exempted - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2519103331 - Control 3887988550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
           <source>Specifies the GST Assessable Value of the line.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26472,6 +26617,11 @@
           <source>Specifies if GST is applicable on assessable value.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Quote Subform Ext - Control GST on Assessable Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2519103331 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Quote Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3464295975 - Action 1481724448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
           <source>Specifies the function through which reference number can be updated in the document.</source>
@@ -26558,6 +26708,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Order Ext - Control POS Out Of India - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3464295975 - Control 3171485793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
+          <source>Specifies if the GST amount post to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Order Ext - Control Post GST to Customer - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3464295975 - Control 4137645431 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
           <source>Specifies the Reference Invoice number.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26578,13 +26733,8 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Subform - Control Exempted - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2280382500 - Control 574103807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3053760138">
-          <source>Specifies if the GST credit has to be availed or not.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Subform - Control GST Credit - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="PageExtension 2280382500 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3053760138">
-          <source>Specifies an unique identifier for the GST group code used to calculate and post GST.</source>
+          <source>Specifies an identifier for the GST group used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Subform - Control GST Group Code - Property ToolTip</note>
         </trans-unit>
@@ -26602,6 +26752,11 @@
           <source>Specifies the GST Place of Supply. For example Bill-to Address, Ship-to Address, Location Address etc.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Subform - Control GST Place Of Supply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2280382500 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3053760138">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales Return Subform - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2280382500 - Control 1429998465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3053760138">
           <source>Specifies if the price in inclusive of tax for the line.</source>
@@ -26623,11 +26778,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales. Cr. Memo Subfrm Ext - Control Exempted - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 3287873257 - Control 574103807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
-          <source>Specifies if the GST credit has to be availed or not.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales. Cr. Memo Subfrm Ext - Control GST Credit - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="PageExtension 3287873257 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
           <source>Specifies an unique identifier for the GST group code used to calculate and post GST.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -26647,6 +26797,11 @@
           <source>Specifies the GST Place of Supply. For example Bill-to Address, Ship-to Address, Location Address etc.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales. Cr. Memo Subfrm Ext - Control GST Place Of Supply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3287873257 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
+          <source>Specifies the HSN/SAC code for the calculation of GST on Sales line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Sales. Cr. Memo Subfrm Ext - Control HSN/SAC Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3287873257 - Control 1429998465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
           <source>Specifies if the price in inclusive of tax for the line.</source>
@@ -27493,6 +27648,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Transfer Order Subform Ext - Control GST Assessable Value - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 161595706 - Control 1815712918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 225830225">
+          <source>Specifies the GST Group code for the calculation of GST on transfer line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Transfer Order Subform Ext - Control GST Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 161595706 - Control 2629078778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 225830225">
+          <source>Specifies the HSN/SAC code for the calculation of GST on transfer line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GST Transfer Order Subform Ext - Control HSN/SAC Code - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1862355880 - Control 3399719068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2818500309">
           <source>Specifies the GST registration number of the Buyer specified on the journal line.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -27982,6 +28147,11 @@
           <source>GST Registration Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Customer Ext - Field GST Registration Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 695348503 - Field 3171485793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Post GST to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Customer Ext - Field Post GST to Customer - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3755955441 - Field 3666116087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3952648489">
           <source>Customer GST Reg. No.</source>
@@ -30613,6 +30783,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Sales Cr.Memo Header Ext - Field POS Out Of India - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2856929237 - Field 3171485793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Post GST to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Sales Cr.Memo Header Ext - Field Post GST to Customer - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2856929237 - Field 1160835642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
           <source>QR Code</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -30983,6 +31158,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Sales Header Ext - Field POS Out Of India - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 811202466 - Field 3171485793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Post GST to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Sales Header Ext - Field Post GST to Customer - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 811202466 - Field 564832403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
           <source>Rate Change Applicable</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -31172,6 +31352,11 @@
           <source>POS Out Of India</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Sales Invoice Header Ext - Field POS Out Of India - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2658059889 - Field 3171485793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Post GST to Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GST Sales Invoice Header Ext - Field Post GST to Customer - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2658059889 - Field 1160835642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
           <source>QR Code</source>
