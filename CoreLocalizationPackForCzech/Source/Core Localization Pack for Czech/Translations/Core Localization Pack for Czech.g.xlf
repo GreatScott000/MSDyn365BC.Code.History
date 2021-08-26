@@ -3208,6 +3208,11 @@
           <note from="Developer" annotates="general" priority="2">%1 = Totaling, %2 = FieldCaption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Acc. Schedule Management CZL - Method TotalingOnAfterValidateEvent - NamedType EvaluateErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1377497134 - NamedType 917367647" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record type %1 is not supported by this workflow response.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = record type; Record type Customer is not supported by this workflow response.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approvals Management CZL - NamedType UnsupportedRecordTypeErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1670026304 - NamedType 950880847" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account no. is too long.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -3387,6 +3392,11 @@
           <source>must be less or equal to %1</source>
           <note from="Developer" annotates="general" priority="2">%1 = fieldcaption of VAT Date CZL</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Gen. Journal Line Handler CZL - Method CheckVatDateOnAfterCheckGenJnlLine - NamedType MustBeLessOrEqualErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1293767784 - Method 4198494112 - NamedType 1577230429" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot post an entry with accounts from different circuits.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Gen.Jnl. - Post Acc. Group CZL - Method CheckAccountGroupTransactionConsistent - NamedType AccountGroupConsistentErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1488617410 - Method 1984926103 - NamedType 1005649326" maxwidth="10" size-unit="char" translate="yes" xml:space="preserve">
           <source>SKU0000000</source>
@@ -4272,6 +4282,21 @@
           <source>The XML Nodes at %1 cannot be found in the XML Document %2.</source>
           <note from="Developer" annotates="general" priority="2">%1=NodePath, %2=XMLDocRoot.InnerXml</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Stmt XML Export Helper CZL - NamedType XmlNodesNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 514946724" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check release the document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType CheckReleaseDocumentTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 221338882" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set document status to Approved.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType SetStatusToApprovedTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 917367647" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record type %1 is not supported by this workflow response.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = record type; Record type Customer is not supported by this workflow response.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType UnsupportedRecordTypeErr</note>
         </trans-unit>
         <trans-unit id="Page 1673751937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Lines</source>
@@ -17073,6 +17098,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo CZL - NamedType Type3TextLbl</note>
         </trans-unit>
+        <trans-unit id="Report 3161673206 - NamedType 1984876172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price Excl. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo CZL - NamedType UnitPriceExclVATLbl</note>
+        </trans-unit>
         <trans-unit id="Report 3161673206 - NamedType 2883700407" size-unit="char" translate="yes" xml:space="preserve">
           <source>UoM</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -17227,6 +17257,11 @@
           <source>total</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice CZL - NamedType TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 381903040 - NamedType 1984876172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price Excl. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice CZL - NamedType UnitPriceExclVATLbl</note>
         </trans-unit>
         <trans-unit id="Report 381903040 - NamedType 2883700407" size-unit="char" translate="yes" xml:space="preserve">
           <source>UoM</source>

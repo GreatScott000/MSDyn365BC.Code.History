@@ -2038,6 +2038,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocApprReqCancelledEventDescTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2944632038 - NamedType 4187419852" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Document Approval Workflow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocApprWorkflowDescTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2944632038 - NamedType 2670915387" size-unit="char" translate="yes" xml:space="preserve">
           <source>A cash document is released.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -2047,6 +2052,11 @@
           <source>Approval of a cash document is requested.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocSendForApprovalEventDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2944632038 - NamedType 2357359545" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZP - NamedType CashDocumentDescTxt</note>
         </trans-unit>
         <trans-unit id="Page 4198796310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cash Desk Activities</source>

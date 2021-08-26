@@ -3849,6 +3849,12 @@
           <note from="Developer" annotates="general" priority="2">%1 = Totaling, %2 = FieldCaption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Acc. Schedule Management CZL - Method TotalingOnAfterValidateEvent - NamedType EvaluateErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1377497134 - NamedType 917367647" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record type %1 is not supported by this workflow response.</source>
+          <target state="translated">Typ záznamu %1 není podporován touto odezvou workflow.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = record type; Record type Customer is not supported by this workflow response.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approvals Management CZL - NamedType UnsupportedRecordTypeErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1670026304 - NamedType 950880847" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account no. is too long.</source>
           <target state="translated">Číslo bankovního účtu je příliš dlouhé.</target>
@@ -4064,6 +4070,12 @@
           <target state="translated">musí být menší nebo rovno %1</target>
           <note from="Developer" annotates="general" priority="2">%1 = fieldcaption of VAT Date CZL</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Gen. Journal Line Handler CZL - Method CheckVatDateOnAfterCheckGenJnlLine - NamedType MustBeLessOrEqualErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1293767784 - Method 4198494112 - NamedType 1577230429" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot post an entry with accounts from different circuits.</source>
+          <target state="translated">Položku nelze zaúčtovat s účty z různých okruhů.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Gen.Jnl. - Post Acc. Group CZL - Method CheckAccountGroupTransactionConsistent - NamedType AccountGroupConsistentErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1488617410 - Method 1984926103 - NamedType 1005649326" maxwidth="10" size-unit="char" translate="yes" xml:space="preserve">
           <source>SKU0000000</source>
@@ -5126,6 +5138,24 @@
           <target state="translated">Uzly XML k %1 nemohly být nalezeny v  dokumentu XML  %2.</target>
           <note from="Developer" annotates="general" priority="2">%1=NodePath, %2=XMLDocRoot.InnerXml</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Stmt XML Export Helper CZL - NamedType XmlNodesNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 514946724" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check release the document.</source>
+          <target state="translated">Zkontrolovat vydání dokladu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType CheckReleaseDocumentTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 221338882" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set document status to Approved.</source>
+          <target state="translated">Nastavte stav dokladu na Schváleno.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType SetStatusToApprovedTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1585668958 - NamedType 917367647" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record type %1 is not supported by this workflow response.</source>
+          <target state="translated">Typ záznamu %1 není podporován touto odezvou workflow.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = record type; Record type Customer is not supported by this workflow response.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Response Handling CZL - NamedType UnsupportedRecordTypeErr</note>
         </trans-unit>
         <trans-unit id="Page 1673751937 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Lines</source>
@@ -12563,7 +12593,7 @@
         </trans-unit>
         <trans-unit id="Report 629953382 - NamedType 1837725615" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do you want to adjust general ledger entries for currency fluctuations without adjusting customer, vendor and bank ledger entries? This may result in incorrect currency adjustments to payables, receivables and bank accounts.\\ </source>
-          <target state="translated">Chcete upravit věcné položky pro fluktuaci měny adjustaci položek zákazníka, dodavatele a bankovního účtu? To může způsobit nesprávnou úpravu měny závazků, pohledávek a bankovních účtů.\\ </target>
+          <target state="translated">Chcete upravit věcné položky pro fluktuaci měny bez úpravy položek zákazníka, dodavatele a bankovního účtu? To může způsobit nesprávnou úpravu měny závazků, pohledávek a bankovních účtů.\\ </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Adjust Exchange Rates CZL - NamedType AdjGenLedgEntriesQst</note>
         </trans-unit>
@@ -12647,7 +12677,7 @@
         </trans-unit>
         <trans-unit id="Report 629953382 - NamedType 2963778462" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>There is nothing to adjust.</source>
-          <target state="translated">Není co adjustovat.</target>
+          <target state="translated">Není co upravovat.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Adjust Exchange Rates CZL - NamedType NothingToAdjustMsg</note>
         </trans-unit>
@@ -12905,7 +12935,7 @@
         </trans-unit>
         <trans-unit id="Report 629953382 - Control 3592094765 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the last date for which entries are adjusted. This date is usually the same as the posting date in the Posting Date field.</source>
-          <target state="translated">Určuje poslední datum, pro které budou položky adjustovány. Toto datum je obvykle stejné jako zúčtovací datum v poli Zúčtovací datum.</target>
+          <target state="translated">Určuje poslední datum, ke kterému budou položky upravovány. Toto datum je obvykle stejné jako zúčtovací datum v poli Zúčtovací datum.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Adjust Exchange Rates CZL - Control EndingDate - Property ToolTip</note>
         </trans-unit>
@@ -13001,7 +13031,7 @@
         </trans-unit>
         <trans-unit id="Report 629953382 - Control 1194356096 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies text for the general ledger entries that are created by the batch job. The default text is Exchange Rate Adjmt. of %1 %2, in which %1 is replaced by the currency code and %2 is replaced by the currency amount that is adjusted. For example, Exchange Rate Adjmt. of DEM 38,000.</source>
-          <target state="translated">Určuje text věcných položek, které jsou vytvořeny dávkovou úlohou. Výchozí text je Adjustace směnných kurzů %1 %2, ve kterém %1 je nahrazeno kódem měny a %2 je nahrazenou částkou měny, která je adjustována.</target>
+          <target state="translated">Určuje text věcných položek, které jsou vytvořeny dávkovou úlohou. Výchozí text je Úprava směnných kurzů %1 %2, ve kterém %1 je nahrazeno kódem měny a %2 je nahrazenou částkou měny, která je upravována. Např. Úprava směnných kurzů EUR 38,00.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Adjust Exchange Rates CZL - Control PostingDescriptionField - Property ToolTip</note>
         </trans-unit>
@@ -20487,6 +20517,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo CZL - NamedType Type3TextLbl</note>
         </trans-unit>
+        <trans-unit id="Report 3161673206 - NamedType 1984876172" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price Excl. VAT</source>
+          <target state="translated">Jednotková cena bez DPH</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo CZL - NamedType UnitPriceExclVATLbl</note>
+        </trans-unit>
         <trans-unit id="Report 3161673206 - NamedType 2883700407" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>UoM</source>
           <target state="translated">MJ</target>
@@ -20672,6 +20708,12 @@
           <target state="translated">celkem</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice CZL - NamedType TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 381903040 - NamedType 1984876172" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price Excl. VAT</source>
+          <target state="translated">Jednotková cena bez DPH</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice CZL - NamedType UnitPriceExclVATLbl</note>
         </trans-unit>
         <trans-unit id="Report 381903040 - NamedType 2883700407" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>UoM</source>
@@ -24496,7 +24538,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 416505386 - Control 3928055264 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies whether entries will be excluded from exchange rates adjustment.</source>
-          <target state="translated">Určuje, zda budou položky vyloučeny z adjustace směnných kurzů.</target>
+          <target state="translated">Určuje, zda budou položky vyloučeny z úpravy směnných kurzů.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2292249509</note>
@@ -26015,14 +26057,14 @@
         </trans-unit>
         <trans-unit id="PageExtension 2910014531 - Control 1544032720 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the posting date of closed period entries in inventory adjustement</source>
-          <target state="translated">Určuje zúčtovací datum položek uzavřeného období při adjustaci zásob.</target>
+          <target state="translated">Určuje zúčtovací datum položek uzavřeného období při úpravě hodnoty zásob.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4050813720</note>
         </trans-unit>
         <trans-unit id="PageExtension 2910014531 - Control 1391346829 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the date for the inventory rounding adjustment by inventory adjustement</source>
-          <target state="translated">Určuje datum zaokrouhlení zásob z adjustace zásob.</target>
+          <target state="translated">Určuje datum zaokrouhlení zásob z úpravy zásob.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4050813720</note>
@@ -26043,14 +26085,14 @@
         </trans-unit>
         <trans-unit id="PageExtension 410836076 - Control 1784763174 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the inventory rounding adjustment account.</source>
-          <target state="translated">Určuje účet adjustace zaokrouhlení zásob.</target>
+          <target state="translated">Určuje účet zaokrouhlení úpravy zásob.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1925407999</note>
         </trans-unit>
         <trans-unit id="PageExtension 3704866736 - Control 1784763174 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the inventory rounding adjustment account.</source>
-          <target state="translated">Určuje účet adjustace zaokrouhlení zásob.</target>
+          <target state="translated">Určuje účet zaokrouhlení úpravy zásob.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 320642379</note>
@@ -26239,7 +26281,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 134813839 - Control 3033399483 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the inventory rounding adjustment value.</source>
-          <target state="translated">Určuje hodnotu zaokrouhlení adjustace zásob.</target>
+          <target state="translated">Určuje hodnotu zaokrouhlení úpravy zásob.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3996409228</note>
@@ -33022,7 +33064,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 4072088659 - Control 4036726073 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the adjustment percentage for the shipment method. This percentage is used to calculate an adjustment value for the Intrastat journal.</source>
-          <target state="translated">Určuje procento adjustace pro způsob dodávky. Toto procento se používá pro výpočet adjustace hodnoty pro deník Intrastat.</target>
+          <target state="translated">Určuje procento úpravy pro způsob dodávky. Toto procento se používá pro výpočet hodnoty úpravy pro deník Intrastat.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1636789000</note>
@@ -34667,7 +34709,7 @@
         </trans-unit>
         <trans-unit id="TableExtension 838900900 - Field 435212320 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>From Adjustment</source>
-          <target state="translated">Z adjustace</target>
+          <target state="translated">Z úpravy</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 1806786327</note>
@@ -34884,7 +34926,7 @@
         </trans-unit>
         <trans-unit id="TableExtension 3704866736 - Field 1784763174 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invt. Rounding Adj. Account</source>
-          <target state="translated">Účet zaokrouhlení adj. zboží</target>
+          <target state="translated">Účet zaokrouhlení úpr. zásob</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 320642379</note>
@@ -35066,7 +35108,7 @@
         </trans-unit>
         <trans-unit id="TableExtension 134813839 - Field 3033399483 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Inv. Rounding Adj.</source>
-          <target state="translated">Zaokrouhlení adj. zboží</target>
+          <target state="translated">Zaokrouhlení úpr. zásob</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 3996409228</note>
@@ -39390,14 +39432,14 @@
         </trans-unit>
         <trans-unit id="EnumExtension 2249165697 - EnumValue 3608661347 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>InvRoundingAdj</source>
-          <target state="translated">ZaokrAdjZboží</target>
+          <target state="translated">ZaokrÚprZásob</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Enum 3929027294</note>
         </trans-unit>
         <trans-unit id="EnumExtension 2249165697 - EnumValue 3287686370 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invt. Accrual (Interim)</source>
-          <target state="translated">Adjustace zásob (dočasné)</target>
+          <target state="translated">Úprava zásob (dočasné)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Enum 3929027294</note>

@@ -713,6 +713,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZC - NamedType CompensationApprReqCancelledEventDescTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2644753467 - NamedType 3685206055" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensation Approval Workflow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZC - NamedType CompensationApprWorkflowDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2644753467 - NamedType 2510763999" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Workflow Handler CZC - NamedType CompensationDescTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2644753467 - NamedType 444990736" size-unit="char" translate="yes" xml:space="preserve">
           <source>A compensation is released.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1309,7 +1319,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Compensation Card CZC - Control Attached Documents - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3012527878 - Action 3964368254 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Relations to the workflow.</source>
+          <source>This function opens the approvals entries.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Compensation Card CZC - Action A&amp;pprovals - Property ToolTip</note>
         </trans-unit>
