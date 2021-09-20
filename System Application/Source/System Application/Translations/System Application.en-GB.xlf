@@ -593,11 +593,13 @@
         </trans-unit>
         <trans-unit id="Table 3029408820 - Field 1663593181 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Temp Media - Field Primary Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3029408820 - Field 3252935640 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Media</source>
+          <target state="translated">Media</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Temp Media - Field Media - Property Caption</note>
         </trans-unit>
@@ -2886,21 +2888,25 @@
         </trans-unit>
         <trans-unit id="Codeunit 2308444729 - NamedType 3828681647" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Picture_%1.jpeg</source>
+          <target state="translated">Picture_%1.jpeg</target>
           <note from="Developer" annotates="general" priority="2">%1 = String generated from current datetime to make sure file names are unique </note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Impl. - NamedType PictureFileNameTok</note>
         </trans-unit>
         <trans-unit id="Codeunit 2308444729 - NamedType 1398852855" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target state="translated">The existing picture will be replaced. Do you want to continue?</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Impl. - NamedType OverrideImageQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 2458010968 - NamedType 1037556188" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The picture quality must be in the range from 0 to 100.</source>
+          <target state="translated">The picture quality must be in the range from 0 to 100.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Page Impl. - NamedType QualityOutOfRangeErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2458010968 - NamedType 2942640116" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No picture was taken.</source>
+          <target state="translated">No picture was taken.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Page Impl. - NamedType NoPictureWasTakenErr</note>
         </trans-unit>
@@ -2912,6 +2918,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1804873446 - NamedType 1156808680" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No media was selected.</source>
+          <target state="translated">No media was selected.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Media Upload Page Impl. - NamedType NoMediaWasSelectedErr</note>
         </trans-unit>
@@ -4754,11 +4761,13 @@
         </trans-unit>
         <trans-unit id="Page 906691248 - NamedType 2342417125" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No state has been returned</source>
+          <target state="translated">No state has been returned</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page OAuth2ControlAddIn - NamedType NoStateErr</note>
         </trans-unit>
         <trans-unit id="Page 906691248 - NamedType 1232297936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The state parameter value does not match.</source>
+          <target state="translated">The state parameter value does not match.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page OAuth2ControlAddIn - NamedType NotMatchingStateErr</note>
         </trans-unit>
@@ -9454,6 +9463,7 @@
         </trans-unit>
         <trans-unit id="Enum 1111761898 - EnumValue 3544158917 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Login</source>
+          <target state="translated">Login</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Prompt Interaction - EnumValue Login - Property Caption</note>
         </trans-unit>
@@ -9465,6 +9475,7 @@
         </trans-unit>
         <trans-unit id="Enum 1111761898 - EnumValue 1733759026 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Consent</source>
+          <target state="translated">Consent</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Prompt Interaction - EnumValue Consent - Property Caption</note>
         </trans-unit>
@@ -9512,6 +9523,7 @@
         </trans-unit>
         <trans-unit id="Enum 437327207 - EnumValue 3238504282 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Remove</source>
+          <target state="translated">Remove</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Azure AD Update Type - EnumValue Remove - Property Caption</note>
         </trans-unit>
