@@ -3815,6 +3815,7 @@
         </trans-unit>
         <trans-unit id="Page 1779564587 - NamedType 1698940350" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Data required by the API was not set up. To set up the data, invoke the action from the API Setup page.</source>
+          <target state="translated">Data required by the API was not set up. To set up the data, invoke the action from the API Setup page.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Order Lines - NamedType SetupNotCompletedErr</note>
         </trans-unit>
@@ -4192,6 +4193,7 @@
         </trans-unit>
         <trans-unit id="Page 825103897 - NamedType 1698940350" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Data required by the API was not set up. To set up the data, invoke the action from the API Setup page.</source>
+          <target state="translated">Data required by the API was not set up. To set up the data, invoke the action from the API Setup page.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Orders - NamedType SetupNotCompletedErr</note>
         </trans-unit>
