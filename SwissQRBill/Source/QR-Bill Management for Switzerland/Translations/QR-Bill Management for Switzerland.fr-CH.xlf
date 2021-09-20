@@ -3104,6 +3104,20 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 387971303</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2311869697 - Control 2250177960 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank account's QR-IBAN value.</source>
+          <target state="translated">Spécifie la valeur QR-IBAN du compte bancaire.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 2292249509</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2311869697 - Field 2250177960 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QR-IBAN</source>
+          <target state="translated">QR-IBAN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Table 1682139193</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1249849977 - Control 2250177960 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the QR-IBAN value of your primary bank account.</source>
           <target state="translated">Spécifie la valeur QR-IBAN de votre compte bancaire principal.</target>
@@ -3132,12 +3146,40 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2805771090</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1996465967 - Control 2472119308 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the QR-bill bank account number. IBAN and QR-IBAN values from this bank account determine which IBAN or QR-IBAN number will be printed on the QR-bills that use this payment method. If no bank account is specified, the IBAN or QR-IBAN from the Company Information age is used.</source>
+          <target state="translated">Spécifie le numéro de compte bancaire des QR-factures. Les valeurs IBAN et QR-IBAN de ce compte bancaire déterminent le numéro IBAN ou QR-IBAN qui sera imprimé sur les QR-factures qui utilisent ce mode de règlement. Si aucun compte bancaire n'est spécifié, l'IBAN ou le QR-IBAN de la page Informations compagnie est utilisé.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 2805771090</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1996465967 - Control 2472119308 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QR-Bill Bank Account No.</source>
+          <target state="translated">N° compte bancaire des QR-factures</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 2805771090</note>
+        </trans-unit>
         <trans-unit id="TableExtension 1996465967 - Field 3265151286 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>QR-Bill Layout</source>
           <target state="translated">Mise en page QR-facture</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 3566004263</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1996465967 - Field 2472119308 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QR-Bill Bank Account No.</source>
+          <target state="translated">N° compte bancaire des QR-factures</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Table 3566004263</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1996465967 - NamedType 1249939377" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to copy Bal. Acount No. to the QR-Bill Bank Account No.?</source>
+          <target state="translated">Voulez-vous copier le N° compte contrepartie dans le N° compte bancaire des QR-factures?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">TableExtension 1996465967</note>
         </trans-unit>
         <trans-unit id="PageExtension 243964648 - Change 1176583840 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>IBAN/QR-IBAN</source>
