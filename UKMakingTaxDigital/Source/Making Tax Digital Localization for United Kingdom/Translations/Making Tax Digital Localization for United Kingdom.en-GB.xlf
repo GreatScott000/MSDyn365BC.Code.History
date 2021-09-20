@@ -225,6 +225,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table MTD Session Fraud Prev. Hdr - Field Value - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3884121109 - NamedType 2400363345" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Making Tax Digital feature is not enabled. To enable it, on the VAT Report Setup page, on the Making Tax Digital FastTab, turn on the Enabled toggle.</source>
+          <target state="translated">The Making Tax Digital feature is not enabled. To enable it, on the VAT Report Setup page, on the Making Tax Digital FastTab, turn on the Enabled toggle.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Connection - NamedType FeatureConsentErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3884121109 - NamedType 3921054357" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>OAuth setup is not enabled for HMRC Making Tax Digital.</source>
           <target state="translated">OAuth setup is not enabled for HMRC Making Tax Digital.</target>
@@ -836,6 +842,20 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3364475416</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2246652568 - Control 2891538263 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the Making Tax Digital feature is enabled.</source>
+          <target state="translated">Specifies if the Making Tax Digital feature is enabled.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2246652568 - Control 2891538263 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <target state="translated">Enabled</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2246652568 - Control 2038032189 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the "Gov Test Scenario" flag for the HMRC sandbox connection.</source>
           <target state="translated">Specifies the "Gov Test Scenario" flag for the HMRC sandbox connection.</target>
@@ -878,9 +898,23 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2246652568 - Change 2113015937 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Making Tax Digital</source>
+          <target state="translated">Making Tax Digital</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2246652568 - Field 3417661058 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>MTD Disable FraudPrev. Headers</source>
           <target state="translated">MTD Disable FraudPrev. Headers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2246652568 - Field 1675453964 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <target state="translated">Enabled</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>

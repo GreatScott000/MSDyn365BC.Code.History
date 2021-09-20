@@ -148,6 +148,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTDTestPaymentsWebService - NamedType RetrievePaymentsUpToDateMsg</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1434974284 - NamedType 2400363345" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Making Tax Digital feature is not enabled. To enable it, on the VAT Report Setup page, on the Making Tax Digital FastTab, turn on the Enabled toggle.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTDTestPeriodsWebService - NamedType FeatureConsentErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1434974284 - NamedType 233832780" size-unit="char" translate="yes" xml:space="preserve">
           <source>Get VAT Return Periods</source>
           <note from="Developer" annotates="general" priority="2"></note>
