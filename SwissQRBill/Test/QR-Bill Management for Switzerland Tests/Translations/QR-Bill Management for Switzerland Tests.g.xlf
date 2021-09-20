@@ -48,6 +48,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Swiss QR-Bill Test IncomingDoc - NamedType ImportCompletedTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 536420734 - NamedType 1249939377" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to copy Bal. Acount No. to the QR-Bill Bank Account No.?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Swiss QR-Bill Test Misc - NamedType ChangeQRBillBankAccountQst</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2622052985 - NamedType 3512084016" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 of %2 Document Types enabled for QR-Bills</source>
           <note from="Developer" annotates="general" priority="2">%1, %2 - number of records</note>
