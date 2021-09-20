@@ -262,31 +262,37 @@
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 2686962215 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the ID.</source>
+          <target state="translated">Specifies the ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control id - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 565362798 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Document ID.</source>
+          <target state="translated">Specifies the Document ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control documentId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 4026315105 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the purchase invoice lines sequence.</source>
+          <target state="translated">Specifies the purchase invoice lines sequence.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control sequence - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 1137752084 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Item Id.</source>
+          <target state="translated">Specifies the Item Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control itemId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 1406037800 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Account Id.</source>
+          <target state="translated">Specifies the Account Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control accountId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 2268742530 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the API Type.</source>
+          <target state="translated">Specifies the API Type.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control lineType - Property ToolTip</note>
         </trans-unit>
@@ -316,21 +322,25 @@
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 2570064479 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the direct unit cost.</source>
+          <target state="translated">Specifies the direct unit cost.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control unitCost - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 3355113493 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity.</source>
+          <target state="translated">Specifies the quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 2286581531 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount amount.</source>
+          <target state="translated">Specifies the line discount amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control discountAmount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 659357154 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount percent.</source>
+          <target state="translated">Specifies the line discount percent.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control discountPercent - Property ToolTip</note>
         </trans-unit>
@@ -384,6 +394,7 @@
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 3755691981 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the net amount.</source>
+          <target state="translated">Specifies the net amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control netAmount - Property ToolTip</note>
         </trans-unit>
@@ -401,11 +412,13 @@
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 2351225378 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the expected receipt date.</source>
+          <target state="translated">Specifies the expected receipt date.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control expectedReceiptDate - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1048301999 - Control 3104767193 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the item variant id.</source>
+          <target state="translated">Specifies the item variant id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Purchase Invoice Lines - Control itemVariantId - Property ToolTip</note>
         </trans-unit>
@@ -435,31 +448,37 @@
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 2686962215 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the ID.</source>
+          <target state="translated">Specifies the ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control id - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 565362798 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Document ID.</source>
+          <target state="translated">Specifies the Document ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control documentId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 4026315105 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the sales credit memo lines sequence.</source>
+          <target state="translated">Specifies the sales credit memo lines sequence.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control sequence - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 1137752084 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Item Id.</source>
+          <target state="translated">Specifies the Item Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control itemId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 1406037800 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Account Id.</source>
+          <target state="translated">Specifies the Account Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control accountId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 2268742530 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the API Type.</source>
+          <target state="translated">Specifies the API Type.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control lineType - Property ToolTip</note>
         </trans-unit>
@@ -495,21 +514,25 @@
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 3421409717 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the unit price.</source>
+          <target state="translated">Specifies the unit price.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control unitPrice - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 3355113493 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity.</source>
+          <target state="translated">Specifies the quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 2286581531 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount amount.</source>
+          <target state="translated">Specifies the line discount amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control discountAmount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 659357154 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount percent.</source>
+          <target state="translated">Specifies the line discount percent.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control discountPercent - Property ToolTip</note>
         </trans-unit>
@@ -557,6 +580,7 @@
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 3755691981 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the net amount.</source>
+          <target state="translated">Specifies the net amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control netAmount - Property ToolTip</note>
         </trans-unit>
@@ -574,11 +598,13 @@
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 3656808776 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the shipment date.</source>
+          <target state="translated">Specifies the shipment date.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control shipmentDate - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2572387921 - Control 3104767193 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the item variant id.</source>
+          <target state="translated">Specifies the item variant id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Credit Mem Lines - Control itemVariantId - Property ToolTip</note>
         </trans-unit>
@@ -614,31 +640,37 @@
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 2686962215 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the ID.</source>
+          <target state="translated">Specifies the ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control id - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 565362798 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the document ID.</source>
+          <target state="translated">Specifies the document ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control documentId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 4026315105 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the sales invoice lines sequence.</source>
+          <target state="translated">Specifies the sales invoice lines sequence.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control sequence - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 1137752084 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Item Id.</source>
+          <target state="translated">Specifies the Item Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control itemId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 1406037800 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Account Id.</source>
+          <target state="translated">Specifies the Account Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control accountId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 2268742530 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the API Type.</source>
+          <target state="translated">Specifies the API Type.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control lineType - Property ToolTip</note>
         </trans-unit>
@@ -674,21 +706,25 @@
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 3421409717 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the unit price.</source>
+          <target state="translated">Specifies the unit price.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control unitPrice - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 3355113493 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity.</source>
+          <target state="translated">Specifies the quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 2286581531 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount amount.</source>
+          <target state="translated">Specifies the line discount amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control discountAmount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 659357154 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount percent.</source>
+          <target state="translated">Specifies the line discount percent.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control discountPercent - Property ToolTip</note>
         </trans-unit>
@@ -742,6 +778,7 @@
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 3755691981 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the net amount.</source>
+          <target state="translated">Specifies the net amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control netAmount - Property ToolTip</note>
         </trans-unit>
@@ -759,11 +796,13 @@
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 3656808776 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the shipment date.</source>
+          <target state="translated">Specifies the shipment date.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control shipmentDate - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3908586298 - Control 3104767193 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the item variant id.</source>
+          <target state="translated">Specifies the item variant id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Invoice Lines - Control itemVariantId - Property ToolTip</note>
         </trans-unit>
@@ -805,31 +844,37 @@
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 2686962215 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the ID.</source>
+          <target state="translated">Specifies the ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control id - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 565362798 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Document ID.</source>
+          <target state="translated">Specifies the Document ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control documentId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 4026315105 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the sales order lines sequence.</source>
+          <target state="translated">Specifies the sales order lines sequence.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control sequence - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 1137752084 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Item Id.</source>
+          <target state="translated">Specifies the Item Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control itemId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 1406037800 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Account Id.</source>
+          <target state="translated">Specifies the Account Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control accountId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 2268742530 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the API Type.</source>
+          <target state="translated">Specifies the API Type.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control lineType - Property ToolTip</note>
         </trans-unit>
@@ -865,21 +910,25 @@
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 3355113493 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity.</source>
+          <target state="translated">Specifies the quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 3421409717 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the unit price.</source>
+          <target state="translated">Specifies the unit price.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control unitPrice - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 2286581531 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount amount.</source>
+          <target state="translated">Specifies the line discount amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control discountAmount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 659357154 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount percent.</source>
+          <target state="translated">Specifies the line discount percent.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control discountPercent - Property ToolTip</note>
         </trans-unit>
@@ -927,6 +976,7 @@
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 3755691981 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the net amount.</source>
+          <target state="translated">Specifies the net amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control netAmount - Property ToolTip</note>
         </trans-unit>
@@ -944,31 +994,37 @@
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 3656808776 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the shipment date.</source>
+          <target state="translated">Specifies the shipment date.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control shipmentDate - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 2195040028 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the shipped quantity.</source>
+          <target state="translated">Specifies the shipped quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control shippedQuantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 3931212466 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the invoiced quantity.</source>
+          <target state="translated">Specifies the invoiced quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control invoicedQuantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 2263737622 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity to invoice.</source>
+          <target state="translated">Specifies the quantity to invoice.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control invoiceQuantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 251888931 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity to ship.</source>
+          <target state="translated">Specifies the quantity to ship.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control shipQuantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1254803123 - Control 3104767193 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the item variant id.</source>
+          <target state="translated">Specifies the item variant id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Order Lines - Control itemVariantId - Property ToolTip</note>
         </trans-unit>
@@ -1016,31 +1072,37 @@
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 2686962215 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the ID.</source>
+          <target state="translated">Specifies the ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control id - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 565362798 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Document ID.</source>
+          <target state="translated">Specifies the Document ID.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control documentId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 4026315105 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the sales quote lines sequence.</source>
+          <target state="translated">Specifies the sales quote lines sequence.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control sequence - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 1137752084 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Item Id.</source>
+          <target state="translated">Specifies the Item Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control itemId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 1406037800 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Account Id.</source>
+          <target state="translated">Specifies the Account Id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control accountId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 2268742530 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the API Type.</source>
+          <target state="translated">Specifies the API Type.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control lineType - Property ToolTip</note>
         </trans-unit>
@@ -1076,21 +1138,25 @@
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 3421409717 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the unit price.</source>
+          <target state="translated">Specifies the unit price.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control unitPrice - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 3355113493 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity.</source>
+          <target state="translated">Specifies the quantity.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 2286581531 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount amount.</source>
+          <target state="translated">Specifies the line discount amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control discountAmount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 659357154 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line discount percent.</source>
+          <target state="translated">Specifies the line discount percent.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control discountPercent - Property ToolTip</note>
         </trans-unit>
@@ -1138,6 +1204,7 @@
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 3755691981 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the net amount.</source>
+          <target state="translated">Specifies the net amount.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control netAmount - Property ToolTip</note>
         </trans-unit>
@@ -1155,6 +1222,7 @@
         </trans-unit>
         <trans-unit id="Page 287431775 - Control 3104767193 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the item variant id.</source>
+          <target state="translated">Specifies the item variant id.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV1 - Sales Quote Lines - Control itemVariantId - Property ToolTip</note>
         </trans-unit>
