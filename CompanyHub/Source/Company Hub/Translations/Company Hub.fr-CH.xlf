@@ -2501,7 +2501,7 @@
         </trans-unit>
         <trans-unit id="Page 1145113728 - Control 880902346 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if the companies from this enviroment are blocked for privacy reasons.</source>
-          <target state="translated">Spécifie si les sociétés de cet environnement sont bloquées pour des raisons de confidentialité.</target>
+          <target state="translated">Spécifie si les compagnies de cet environnement sont bloquées pour des raisons de confidentialité.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page COHUB Enviroment Card - Control Privacy Blocked - Property ToolTip</note>
         </trans-unit>
@@ -2513,7 +2513,7 @@
         </trans-unit>
         <trans-unit id="Page 1145113728 - Control 1842558322 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if the demo companies from this enviroment should be included or not.</source>
-          <target state="translated">Spécifie si les sociétés de démonstration de cet environnement doivent être incluses ou non.</target>
+          <target state="translated">Spécifie si les compagnies de démonstration de cet environnement doivent être incluses ou non.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page COHUB Enviroment Card - Control Include Demo Companies - Property ToolTip</note>
         </trans-unit>
@@ -2525,7 +2525,7 @@
         </trans-unit>
         <trans-unit id="Page 1145113728 - Control 3817506388 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the link used to access the enviroment's companies.</source>
-          <target state="translated">Spécifie le lien utilisé pour accéder aux sociétés de l’environnement.</target>
+          <target state="translated">Spécifie le lien utilisé pour accéder aux compagnies de l’environnement.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page COHUB Enviroment Card - Control Link - Property ToolTip</note>
         </trans-unit>
