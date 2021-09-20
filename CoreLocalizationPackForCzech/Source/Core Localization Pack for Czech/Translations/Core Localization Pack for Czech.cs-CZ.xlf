@@ -20699,7 +20699,7 @@
         </trans-unit>
         <trans-unit id="Report 381903040 - NamedType 1647475926" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total after Prepayed Advances</source>
-          <target state="translated">Celkem po zaplacení záloh</target>
+          <target state="translated">Celkem po odpočtu záloh</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice CZL - NamedType TotalAfterPrepayedLbl</note>
         </trans-unit>
