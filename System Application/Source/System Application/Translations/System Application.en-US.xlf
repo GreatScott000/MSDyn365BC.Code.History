@@ -593,11 +593,13 @@
         </trans-unit>
         <trans-unit id="Table 3029408820 - Field 1663593181 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Temp Media - Field Primary Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3029408820 - Field 3252935640 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Media</source>
+          <target state="translated">Media</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Temp Media - Field Media - Property Caption</note>
         </trans-unit>
@@ -2754,16 +2756,19 @@
         </trans-unit>
         <trans-unit id="Codeunit 1645891195 - NamedType 1383399196" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>All users must be assigned to the same license, either Basic, Essential, or Premium. %1 and %2 are assigned to different licenses, for example, but there may be other mismatches. Your system administrator or Microsoft partner can verify license assignments in your Microsoft 365 admin portal.\\We will sign you out when you choose the OK button.</source>
+          <target state="translated">All users must be assigned to the same license, either Basic, Essential, or Premium. %1 and %2 are assigned to different licenses, for example, but there may be other mismatches. Your system administrator or Microsoft partner can verify license assignments in your Microsoft 365 admin portal.\\We will sign you out when you choose the OK button.</target>
           <note from="Developer" annotates="general" priority="2">%1 = %2 = Authnetication email.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Plan Impl. - NamedType MixedPlansNonAdminErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1645891195 - NamedType 1763109697" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Before you can update user information, go to your Microsoft 365 admin center and make sure that all users are assigned to the same Business Central license, either Basic, Essential, or Premium. For example, we found that users %1 and %2 are assigned to different licenses, but there may be other mismatches.</source>
+          <target state="translated">Before you can update user information, go to your Microsoft 365 admin center and make sure that all users are assigned to the same Business Central license, either Basic, Essential, or Premium. For example, we found that users %1 and %2 are assigned to different licenses, but there may be other mismatches.</target>
           <note from="Developer" annotates="general" priority="2">%1 = %2 = Authnetication email.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Plan Impl. - NamedType MixedPlansAdminErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1645891195 - NamedType 3468023376" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One or more users are not assigned to the same Business Central license. For example, we found that users %1 and %2 are assigned to different licenses, but there may be other mismatches. In your Microsoft 365 admin center, make sure that all users are assigned to the same Business Central license, either Basic, Essential, or Premium.  Afterward, update Business Central by opening the Users page and using the 'Update Users from Office 365' action.</source>
+          <target state="translated">One or more users are not assigned to the same Business Central license. For example, we found that users %1 and %2 are assigned to different licenses, but there may be other mismatches. In your Microsoft 365 admin center, make sure that all users are assigned to the same Business Central license, either Basic, Essential, or Premium.  Afterward, update Business Central by opening the Users page and using the 'Update Users from Office 365' action.</target>
           <note from="Developer" annotates="general" priority="2">%1 = %2 = Authnetication email.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Plan Impl. - NamedType MixedPlansMsg</note>
         </trans-unit>
@@ -2883,21 +2888,25 @@
         </trans-unit>
         <trans-unit id="Codeunit 2308444729 - NamedType 3828681647" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Picture_%1.jpeg</source>
+          <target state="translated">Picture_%1.jpeg</target>
           <note from="Developer" annotates="general" priority="2">%1 = String generated from current datetime to make sure file names are unique </note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Impl. - NamedType PictureFileNameTok</note>
         </trans-unit>
         <trans-unit id="Codeunit 2308444729 - NamedType 1398852855" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target state="translated">The existing picture will be replaced. Do you want to continue?</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Impl. - NamedType OverrideImageQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 2458010968 - NamedType 1037556188" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The picture quality must be in the range from 0 to 100.</source>
+          <target state="translated">The picture quality must be in the range from 0 to 100.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Page Impl. - NamedType QualityOutOfRangeErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2458010968 - NamedType 2942640116" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No picture was taken.</source>
+          <target state="translated">No picture was taken.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Camera Page Impl. - NamedType NoPictureWasTakenErr</note>
         </trans-unit>
@@ -2909,6 +2918,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1804873446 - NamedType 1156808680" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No media was selected.</source>
+          <target state="translated">No media was selected.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Media Upload Page Impl. - NamedType NoMediaWasSelectedErr</note>
         </trans-unit>
@@ -4751,11 +4761,13 @@
         </trans-unit>
         <trans-unit id="Page 906691248 - NamedType 2342417125" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No state has been returned</source>
+          <target state="translated">No state has been returned</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page OAuth2ControlAddIn - NamedType NoStateErr</note>
         </trans-unit>
         <trans-unit id="Page 906691248 - NamedType 1232297936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The state parameter value does not match.</source>
+          <target state="translated">The state parameter value does not match.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page OAuth2ControlAddIn - NamedType NotMatchingStateErr</note>
         </trans-unit>
@@ -8208,11 +8220,13 @@
         </trans-unit>
         <trans-unit id="Page 1919691214 - Control 2901901922 - Property 62802879" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>None,Row,Page,,</source>
+          <target state="translated">None,Row,Page,,</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Table Information - Control Compression - Property OptionCaption</note>
         </trans-unit>
         <trans-unit id="Page 1919691214 - Control 2901901922 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The compression state of the table in the database</source>
+          <target state="translated">The compression state of the table in the database</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Table Information - Control Compression - Property ToolTip</note>
         </trans-unit>
@@ -9443,11 +9457,13 @@
         </trans-unit>
         <trans-unit id="Enum 1111761898 - EnumValue 3371220206 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>No prompt parameter in the request</source>
+          <target state="translated">No prompt parameter in the request</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Prompt Interaction - EnumValue None - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1111761898 - EnumValue 3544158917 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Login</source>
+          <target state="translated">Login</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Prompt Interaction - EnumValue Login - Property Caption</note>
         </trans-unit>
@@ -9459,6 +9475,7 @@
         </trans-unit>
         <trans-unit id="Enum 1111761898 - EnumValue 1733759026 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Consent</source>
+          <target state="translated">Consent</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Prompt Interaction - EnumValue Consent - Property Caption</note>
         </trans-unit>
@@ -9506,6 +9523,7 @@
         </trans-unit>
         <trans-unit id="Enum 437327207 - EnumValue 3238504282 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Remove</source>
+          <target state="translated">Remove</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Azure AD Update Type - EnumValue Remove - Property Caption</note>
         </trans-unit>
