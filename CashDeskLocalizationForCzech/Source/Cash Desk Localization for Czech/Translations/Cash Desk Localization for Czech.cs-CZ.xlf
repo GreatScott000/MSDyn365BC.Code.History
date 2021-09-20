@@ -4001,7 +4001,7 @@
         </trans-unit>
         <trans-unit id="Page 1970646769 - Action 217464279 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>UnLink Linked Advance Letters</source>
-          <target state="translated">Odpojit propojené zálohy</target>
+          <target state="translated">Odpojit zálohové faktury</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Cash Document CZP - Action UnLink Linked Advance Letters - Property Caption</note>
         </trans-unit>
