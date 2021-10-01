@@ -4805,7 +4805,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - Control 1341711477 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Credit Memo Date</source>
-          <target state="translated">Fecha nota de crédito</target>
+          <target state="translated">Fecha de nota de crédito</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - Control creditMemoDate - Property Caption</note>
         </trans-unit>
@@ -5135,7 +5135,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 30303159" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The action can be applied to a posted credit memo only.</source>
-          <target state="translated">La acción se puede aplicar solo a una nota crédito regis.</target>
+          <target state="translated">La acción se puede aplicar solo a una nota de crédito registrada.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType PostedCreditMemoActionErr</note>
         </trans-unit>
@@ -5825,13 +5825,13 @@
         </trans-unit>
         <trans-unit id="Page 3783002405 - NamedType 3395541992" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the invoice failed because of the following error: \\%1\\A credit memo is posted.</source>
-          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se registra una nota de crédito.</target>
+          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se ha registrado una nota de crédito.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Invoices - NamedType CancelingInvoiceFailedCreditMemoCreatedAndPostedErr</note>
         </trans-unit>
         <trans-unit id="Page 3783002405 - NamedType 554130235" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the invoice failed because of the following error: \\%1\\A credit memo is created but not posted.</source>
-          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se crea una nota de crédito, pero no se la registra.</target>
+          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se ha creado una nota de crédito, pero no se la ha registrado.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Invoices - NamedType CancelingInvoiceFailedCreditMemoCreatedButNotPostedErr</note>
         </trans-unit>
