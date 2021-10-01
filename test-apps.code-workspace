@@ -114,6 +114,9 @@
                         "path":  ".\\CompanyHub\\Test\\Company Hub Tests"
                     },
                     {
+                        "path":  ".\\DataArchive\\test\\Data Archive Tests"
+                    },
+                    {
                         "path":  ".\\Email - Current User Connector\\Test\\Email - Current User Connector Tests"
                     },
                     {
@@ -159,25 +162,28 @@
                         "path":  ".\\LatePaymentPredictor\\Test\\Late Payment Prediction Tests"
                     },
                     {
-                        "path":  ".\\Onprem Permissions\\Test\\OnPrem Permissions Tests"
+                        "path":  ".\\onprem permissions\\test\\OnPrem Permissions Tests"
                     },
                     {
-                        "path":  ".\\PayPalPaymentsStandard\\Test\\PayPal Payments Standard Tests"
+                        "path":  ".\\paypalpaymentsstandard\\test\\PayPal Payments Standard Tests"
                     },
                     {
-                        "path":  ".\\SalesAndInventoryForecast\\Test\\Sales and Inventory Forecast Tests"
+                        "path":  ".\\recommendedapps\\test\\Recommended Apps Tests"
                     },
                     {
-                        "path":  ".\\System Application\\Source\\System Application\\Email\\src\\Test Email"
+                        "path":  ".\\salesandinventoryforecast\\test\\Sales and Inventory Forecast Tests"
                     },
                     {
-                        "path":  ".\\System Application\\Test\\System Application Test"
+                        "path":  ".\\system application\\source\\System Application\\Email\\src\\Test Email"
                     },
                     {
-                        "path":  ".\\System Application\\Test\\System Application Test Library"
+                        "path":  ".\\system application\\test\\System Application Test"
                     },
                     {
-                        "path":  ".\\System Application\\Test\\System Application Test\\Extension Management\\testArtifacts"
+                        "path":  ".\\system application\\test\\System Application Test Library"
+                    },
+                    {
+                        "path":  ".\\system application\\test\\System Application Test\\Extension Management\\testArtifacts"
                     },
                     {
                         "path":  ".\\testframework\\TestLibraries"

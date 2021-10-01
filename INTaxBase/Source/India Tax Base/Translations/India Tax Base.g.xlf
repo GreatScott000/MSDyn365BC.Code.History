@@ -273,6 +273,11 @@
           <note from="Developer" annotates="general" priority="2">%1 = Table Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Posting No. Series Mgmt. - NamedType RecordConditionTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1853036936 - NamedType 1757832805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Case Tree Place holder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Base Tax Engine Setup - NamedType UseCaseTreeLbl</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2898653146 - Method 3004954119 - NamedType 854435374" size-unit="char" translate="yes" xml:space="preserve">
           <source>You must create a new fiscal year before you can close the old year.</source>
           <note from="Developer" annotates="general" priority="2"></note>

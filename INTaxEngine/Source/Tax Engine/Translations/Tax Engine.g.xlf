@@ -1499,7 +1499,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Entity Attribute Mapping - Field Attribute Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2357189877 - Field 3496889586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Entry ID</source>
+          <source>Entity ID</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Entity Attribute Mapping - Field Entity ID - Property Caption</note>
         </trans-unit>
@@ -3274,14 +3274,24 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 46082055 - NamedType 3947500028" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Deleting Tax Type will also delete its related configurations and use cases. Do you want to continue.</source>
+          <source>Deleting Tax Type will also delete its related tax rates and use cases. Do you want to continue.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - NamedType ConfirmTaxTypeDeleteQst</note>
+        </trans-unit>
+        <trans-unit id="Table 46082055 - NamedType 882480101" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot enable a tax type with status %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Status</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - NamedType TaxTypeStatusLbl</note>
         </trans-unit>
         <trans-unit id="Table 46082055 - Field 2327360480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Accounting Period</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Accounting Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 46082055 - Field 4120197227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Changed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Changed By - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 46082055 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
@@ -3293,10 +3303,85 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 46082055 - Field 3691132173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effective From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Effective From - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 46082055 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Enable</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 46082055 - Field 3282073771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Major Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Major Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 46082055 - Field 981826127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minor Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Minor Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 46082055 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type Archival Log Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 316068610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Active Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 1890316427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Changed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Changed by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 201271836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Configuration Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 3372051620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Date-Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Log Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 3282073771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Major Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Major Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 981826127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minor Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Minor Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 46082055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281813017 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tax Type Archival Log Entry - Field User ID - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 135396718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Use Case</source>
@@ -3304,7 +3389,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Use Case - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 135396718 - NamedType 2742653395" size-unit="char" translate="yes" xml:space="preserve">
-          <source>You cannot enable a use with status %1</source>
+          <source>You cannot enable a use case with status %1</source>
           <note from="Developer" annotates="general" priority="2">%1 = Status</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Tax Use Case - NamedType UseCaseStatusLbl</note>
         </trans-unit>
@@ -3517,6 +3602,26 @@
           <source>Tax Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Transaction Posting Buffer - Field Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2815734174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upgraded Tax Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Upgraded Tax Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2815734174 - Field 46082055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Upgraded Tax Types - Field Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4046939580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upgraded Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Upgraded Use Cases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4046939580 - Field 1570062774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Case ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Upgraded Use Cases - Field Use Case ID - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 97605143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Use Case Archival Log Entry</source>
@@ -4198,15 +4303,55 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType SetupWizardTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - NamedType 1634397673" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Modified Tax Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType ShowTaxTypesLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - NamedType 682891783" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Modified Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType ShowUseCasesLbl</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1316980702 - NamedType 3156718777" size-unit="char" translate="yes" xml:space="preserve">
           <source>You don't have Tax Configurations due to which transactions will not calculate tax. but you can import it manually or from Assisted Setup.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType TaxEngineNotificationMsg</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - NamedType 3456127875" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type configuration does not exist for Tax Type: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Tax Type</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType TaxTypeConfigNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - NamedType 4130723798" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We have upgraded some Tax Types which were modified by you. you can export these Tax Types and apply your changes manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType UpgradeTaxTypesNotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - NamedType 735258356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We have upgraded some use cases which were modified by you. you can export these use cases and apply your changes manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType UpgradeUseCasesNotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - NamedType 1370470709" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Case configuration does not exist for Tax Type: %1, and Case ID : %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Tax Type,%2 - Case ID</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - NamedType UseCaseConfigNotFoundErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1316980702 - Method 65719700 - NamedType 2151054288" size-unit="char" translate="yes" xml:space="preserve">
           <source>67173147-288c-4e51-87ba-cbd5f1a1261c</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - Method SendNotificationForEmptyTaxConfig - NamedType TaxEngineNotificationLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - Method 2102589184 - NamedType 2783265899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>a7957d72-b5c4-4c36-88dd-b23ce9184221</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - Method SendNotificationForUpgradeTaxTypes - NamedType UpgradeTaxTypesNotificationLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1316980702 - Method 1163562674 - NamedType 3535219340" size-unit="char" translate="yes" xml:space="preserve">
+          <source>a81af8c6-f3a6-4b70-8721-4d3badd1f8b9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Engine Assisted Setup - Method SendNotificationForUpgradeUseCases - NamedType UpgradeUseCaseNotificationLbl</note>
         </trans-unit>
         <trans-unit id="Codeunit 4246769398 - NamedType 1769234531" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cannot read property %1.</source>
@@ -4304,7 +4449,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Json Serialization - NamedType ValueLbl</note>
         </trans-unit>
         <trans-unit id="Codeunit 3228594690 - NamedType 2026438490" size-unit="char" translate="yes" xml:space="preserve">
-          <source>We have updated some use cases which were modified by you. please export these use cases and apply your changes manually.</source>
+          <source>We have upgraded some use cases which were modified by you. you can export these use cases and apply your changes manually.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Json Single Instance - NamedType UseCaseReplacedMsg</note>
         </trans-unit>
@@ -4428,6 +4573,31 @@
           <note from="Developer" annotates="general" priority="2">%1 = Decimal2 , %2 = Decimal1</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Setup Matrix Mgmt. - Method ValidateConfigurationValue - NamedType DateValueErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3169965198 - NamedType 4112739351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Type Archival Mgmt. - NamedType ChangedByPartnerLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3169965198 - Method 2682724630 - NamedType 3237788749" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If you restore this version then current version will be deleted and might make your existing use cases inconsistent. Do you want continue ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Type Archival Mgmt. - Method RestoreArchivalToUse - NamedType RestoreTaxTypeQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3169965198 - Method 271983375 - NamedType 1660945429" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax type is restored. Do you want open this version now ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Type Archival Mgmt. - Method RestoreTaxType - NamedType OpenRestoredTaxTypeQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3169965198 - Method 524025535 - NamedType 2059787731" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.json</source>
+          <note from="Developer" annotates="general" priority="2">%1 = name of Tax Type</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Type Archival Mgmt. - Method ShowConfigurationFile - NamedType FileTextLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3793497309 - NamedType 1990770542" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot change configuration on Released tax type : %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = tax type dscription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tax Type Entity Mgmt. - NamedType CannotChangeReleasedTaxTypeErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1494348114 - NamedType 731885405" size-unit="char" translate="yes" xml:space="preserve">
           <source>You cannot enter '%1' in TableNo.</source>
           <note from="Developer" annotates="general" priority="2">%1, Table No. or Table Name</note>
@@ -4459,7 +4629,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Use Case Archival Mgmt. - Method ExportTaxTypes - NamedType TaxConfigLbl</note>
         </trans-unit>
         <trans-unit id="Codeunit 2583898508 - Method 2682724630 - NamedType 3249178011" size-unit="char" translate="yes" xml:space="preserve">
-          <source>If you restore this version and current version will be deleted. Do you want continue ?</source>
+          <source>If you restore this version then current version will be deleted. Do you want continue ?</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Use Case Archival Mgmt. - Method RestoreArchivalToUse - NamedType RestoreUseCaseQst</note>
         </trans-unit>
@@ -7038,6 +7208,211 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Tax Table Relation Dialog - Control Lookup Table Filters - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 46082055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - NamedType 20080324" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.%2</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Major Version, %2 - Minor Version</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - NamedType VersionLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 2327360480 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the accounting period of tax type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Accounting Period - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of tax type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of tax type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if tax use case is enabled for usage.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the effective date of the use case.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 3116119687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control VersionControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 4120197227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the changed by of the use case.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Changed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 3691132173 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the effective date of the use case.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Effective From - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Control 237762718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the version of the use case.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Control Version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 3648844931 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens archival logs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action ArchivedLogs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 3648844931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived Logs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action ArchivedLogs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 2033009233 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the list of Attributes for the tax type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action Attributes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 2033009233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attributes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action Attributes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 236920392 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax components for a tax type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action Components - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 236920392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Components</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action Components - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 336247987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the tax type and related information like attributes, components, use cases etc. to json file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action ExportTaxType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 336247987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Tax Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action ExportTaxType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 4021387668 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the list of tables used in configuration tax computation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action TaxEntities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 4021387668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Entities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action TaxEntities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 1288712168 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the configuration of tax rates for this tax type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action TaxRates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 1288712168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action TaxRates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 3369701292 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the configuration of columns for tax rate matrix page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action TaxRateSetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 3369701292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rate Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action TaxRateSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 2587270112 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies use cases for tax computation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action UseCases - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 46082055 - Action 2587270112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type - Action UseCases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type Archival Log Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - NamedType 20080324" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.%2</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Major Version, %2 - Minor Version</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - NamedType VersionLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 316068610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether this version of use case is active or not.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control Active Version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 1890316427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether use case was changed by Partner or Microsoft.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control Changed by - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Description of the use case.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Entry No. of the log entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 3372051620 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the log Date-Time of archival.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control Log Date-Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the USERID who has released the use case.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Control 237762718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the version of the Tax Type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Control Version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Action 271983375 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore this version as a active Tax Type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Action RestoreTaxType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Action 271983375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore this version.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Action RestoreTaxType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Action 3215572320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Downloads the configuration file in the form of Json.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Action ShowTaxTypeAsJson - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115569843 - Action 3215572320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Configuration File.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Type Archival Log Entries - Action ShowTaxTypeAsJson - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3433576562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Tax Types</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -7062,6 +7437,16 @@
           <source>Specifies if the tax type enabled for usage.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Tax Types - Control Enable - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3433576562 - Action 3648844931 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens archival logs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Types - Action ArchivedLogs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3433576562 - Action 3648844931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived Logs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Types - Action ArchivedLogs - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3433576562 - Action 2033009233 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Opens the list of Attributes for the tax type.</source>
@@ -7112,6 +7497,16 @@
           <source>Export Tax Type(s)</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Tax Types - Action ExportUseCase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3433576562 - Action 2932221779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imports the Tax Type from the set of library of tax types.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Types - Action ImportTaxTypeFromLibrary - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3433576562 - Action 2932221779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Tax Type From Library</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tax Types - Action ImportTaxTypeFromLibrary - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3433576562 - Action 1730597805 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Import the tax type and related information like attributes, components, use cases etc. from json file.</source>
@@ -7513,6 +7908,11 @@
           <note from="Developer" annotates="general" priority="2">%1=Table Id</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Use Case Tree - NamedType ObjectIDNotFoundErr</note>
         </trans-unit>
+        <trans-unit id="Page 1208409539 - NamedType 3670874248" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use case is not Imported.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Use Case Tree - NamedType UseCaseNotImportedLbl</note>
+        </trans-unit>
         <trans-unit id="Page 1208409539 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies that the related record is blocked from being used in use case execution.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -7597,6 +7997,16 @@
           <source>Import Nodes</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Use Case Tree - Action Import Nodes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1208409539 - Action 4219718565 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imports the Use Case from the set of library of use cases.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Use Case Tree - Action ImportUseCaseFromLibrary - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1208409539 - Action 4219718565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Use Case from Library</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Use Case Tree - Action ImportUseCaseFromLibrary - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1208409539 - Action 664097417 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Indent nodes between a Begin and the matching End one level to make the list easier to read.</source>
@@ -7692,6 +8102,16 @@
           <source>Import Use Case</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Use Cases - Action ImportUseCase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3772082224 - Action 4219718565 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imports the Use Case from the set of library of use cases.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Use Cases - Action ImportUseCaseFromLibrary - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3772082224 - Action 4219718565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Use Case from Library</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Use Cases - Action ImportUseCaseFromLibrary - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3772082224 - Action 3372130345 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Opens posting setup for this use case</source>

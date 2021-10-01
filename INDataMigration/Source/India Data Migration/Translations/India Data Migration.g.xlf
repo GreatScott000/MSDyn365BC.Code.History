@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="India Data Migration">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1053818071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>India Data Transfer Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1053818071 - Field 4273548856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Field Completed Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1053818071 - Field 2549401612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed Tables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Field Completed Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1053818071 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1053818071 - Field 3916331706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Field Pending Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1053818071 - Field 4174802622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Tables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Field Pending Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1053818071 - Field 1760982005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Data Transfer Statistics - Field Total Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060900524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>India Migration Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060900524 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Company - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3060900524 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Company - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>India Migration Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 308653156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commited</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field Commited - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 4240670190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field End Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 1476062623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field Error Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 2169532623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field Start Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3792108219 - Field 3102836316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table India Migration Worksheet - Field To Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1187074875 - NamedType 3108482338" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculating Tax :               #1######\</source>
+          <note from="Developer" annotates="general" priority="2">Calculating Tax</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Call Tax Engine - NamedType CalculatingTaxLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1187074875 - NamedType 3849388915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID :      #2######\</source>
+          <note from="Developer" annotates="general" priority="2">Record ID</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Call Tax Engine - NamedType RecIDTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 648223842 - NamedType 2722763728" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize data migration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit India Migartion Assisted Setup - NamedType SetupWizardTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize India Migration Wizard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - NamedType 3476492343" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Migration steps were not completed.\\Are you sure you want to exit?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - NamedType NAVNotSetUpQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 3647570164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's go!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control Let's go! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 2709999185 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Next to get started.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control Control22 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 1434623951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We are almost done !!!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control Welcome to Tax Engine Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 2241211591 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This assisted setup guide helps Finalize India data migration .</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control Control28 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 642593488 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To apply the settings, choose Finish.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control Control30 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 1546979963 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wizard is ready to go.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control That's it! - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Control 1546979963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>That's it!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Control That's it! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2163071543 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Finalize India Migration - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3004072052 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Migration Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3004072052 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Migration Status - EnumValue Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3004072052 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Migration Status - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

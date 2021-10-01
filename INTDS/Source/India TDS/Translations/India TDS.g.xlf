@@ -1748,6 +1748,156 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Subscribers - Method CheckPANDetails - NamedType PANNoErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3409247906 - NamedType 3257280872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Configuration - NamedType TDSTaxTypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 3363796548" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {DB230097-4AA7-44E2-9373-02A467DC95AC}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1968017566" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {5D4C69D3-E776-4E9D-B397-09336BFDC884}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 412476443" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {FED919F2-CBDB-45F9-9383-0E1607897400}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 3541941879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {B0C259BC-64CC-4818-887A-3337D357CDFF}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2074213871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {33BFBE99-9140-4112-A55B-35EC0D9B61B9}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 601036269" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {271D5BC6-17E8-424E-9E34-3BEE548F938F}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1316678530" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {A8E114BF-F8CD-44DB-A2B3-614BC18F4442}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1216723532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {6FBA1A5C-41A0-4430-976E-6B54E4884164}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2858452513" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {FEE5DFFF-0BC1-4246-AD90-6CB3DC44A451}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 3091106833" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {FA0E357D-1AC0-42AA-94DE-6DACA521D38E}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1554792357" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {7D508D37-53AC-4E44-9669-743A8BA82A3F}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1120313043" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {25EADDE7-E634-4A01-9E4B-74E7C9D5AA62}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2579490692" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {9E57C058-0570-4828-B24A-760D35A38D19}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 4257821600" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {D9B47164-1681-4C6F-A746-8D710E5F103D}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1551398483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {EB2141B4-1220-462B-AB1A-9BB3FFDF704A}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2190418971" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {C1C8C9A9-1AE8-48D7-AB60-9EA08AA0AF21}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 256574293" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {61ED733A-A96B-45ED-BE21-A98A8B65566B}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 3315924351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {0CDED40A-A359-45E0-AAEC-AFE7BBCFBC96}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1870899207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {B8483E82-4EAB-43DE-B423-B1371AAA9CE0}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 843764924" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {F39A0864-D2E7-40A5-9633-B6680CD3EC6F}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2236599318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {C3B6CECC-CACE-43A4-8F03-BAB6AFE1E15B}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 3822333681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {98E3D17E-B644-4DBA-836C-CF26A20EDD3F}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2014403646" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {D0CED206-BE26-47A3-A370-D064D8AFCE44}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1619669239" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {487C3669-B12A-42C0-9FEA-D23AB1426BF6}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1477390902" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {1E42FDF3-1868-4205-A6D6-D2FC67BD132F}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 2068798390" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {75222E87-A1A0-48EE-9211-D3F59009C287}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 1571279083" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {25C2D9C3-2A87-41A6-9AB9-DC76E818DF0C}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 3738100424 - NamedType 39887614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method GetConfig - NamedType {08737F79-35F1-4670-BD1D-E41764E3A9DE}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3589253041 - Method 2638051844 - NamedType 3257280872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Tax Engine Setup - Method OnGetTaxTypeConfig - NamedType TDSTaxTypeLbl</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1943516711 - NamedType 3257280872" size-unit="char" translate="yes" xml:space="preserve">
           <source>TDS Tax Type Place Holder</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1782,6 +1932,11 @@
           <source>You cannot reverse the transaction, because it has already been reversed.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TDS Validations - NamedType TDSReverseErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 489655448 - NamedType 2853336947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TDS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Upgrade TDS Tax Config - NamedType TDSLbl</note>
         </trans-unit>
         <trans-unit id="Page 3496913511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Acknowledgement Setup</source>

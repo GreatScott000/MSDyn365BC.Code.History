@@ -1343,6 +1343,161 @@
           <note from="Developer" annotates="general" priority="2">%1=TCS Nature of Collection., %2=The Table Name.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Sales Subscribers - NamedType NOCTypeErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 200067987 - NamedType 594677709" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Configuration - NamedType TCSTaxTypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 527910063" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {BC834CD9-7782-4B77-8D0E-0D7EF1679775}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 4272889370" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {42747DC4-6388-459E-9D2E-103F3F4E2AB0}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 4056732308" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {E696BECA-20A6-498E-9615-114585216ABA}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 746325702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {4BC77C19-4CA3-4913-8EB5-11EDAE308A25}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 3086666202" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {B3983817-AAEE-4AD8-97D8-16A875361BA7}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1050137179" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {91492C74-9837-4256-8B07-1BA40247EA73}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1303736820" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {6AD030DC-AE48-48C9-9651-36BA6742BDED}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1373960608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {800AD5B2-89E5-4616-8281-37DDEC382E76}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 3151972856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {F687A3C1-9192-42D2-A042-39C2B63B35D7}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1497052851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {593E67FC-EACA-4C9B-8F95-4A1D3D1712E4}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 3750386037" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {4DC37F56-3558-400D-ABB1-5573CCC0FD30}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 3470914169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {B8AC2649-DEA6-42B1-BF69-62A706C6DC40}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2479338190" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {DA63D636-4773-418A-8123-6522A7867E5F}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2600156292" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {4782B33F-5607-4D84-A74F-7061F377D235}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2405589856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {4383C40B-8C8A-413C-A840-713CDA7C8B06}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2241523183" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {6B7BF4A0-0250-4480-9482-733992652D29}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2603933283" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {B1B995F9-C500-4846-9FE8-833A900F0846}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1287027662" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {82174562-748D-4C6F-AE37-852C7CCEFEAC}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2879697344" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {3ED702E0-AFA2-4771-AD1F-8FBEF7383436}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 318530112" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {77DE8E48-908D-4E7E-9FBE-98B9EFCB7AE5}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 3450630788" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {1E2CC6D7-1793-4F6E-BF59-A79A941FD309}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 219407130" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {6F4B6558-D97D-463E-BCC2-A8AE3C7EB872}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 3295745872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {FE8A4EB1-249A-4BB2-9C23-B1DC2847BC52}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 511372742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {5E2AC8E9-8A09-4BA9-8C30-C1CD27CAA214}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1784735818" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {D9843455-A721-409B-8A37-D111331A8024}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1140459930" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {C8358DF6-AC70-4AB2-94E4-D609ADC635CA}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 2788132681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {CB9FAD0D-74A9-4DD5-A83A-E2F6A1FABA06}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 98650794" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {088AD93D-6264-4C00-8E0D-F15F40E5E4F6}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 3738100424 - NamedType 1704264687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS Use Cases</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method GetConfig - NamedType {994E3FD7-2FE1-4B6D-AC06-F819F8B94F07}Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1435830188 - Method 2638051844 - NamedType 594677709" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Tax Engine Setup - Method OnGetTaxTypeConfig - NamedType TCSTaxTypeLbl</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3162279667 - NamedType 594677709" size-unit="char" translate="yes" xml:space="preserve">
           <source>TCS Tax Type place holder</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1367,6 +1522,11 @@
           <source>You cannot reverse %1 No. %2 because the entry has already been involved in a reversal.</source>
           <note from="Developer" annotates="general" priority="2">%1 = TCS Entry Table Caption, %2 = Entry No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TCS Validation and Settlement - Method OnBeforeReverseEntries - NamedType AlreadyReversedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3569499173 - NamedType 2463426458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TCS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Upgrade TCS Tax Config - NamedType TCSLbl</note>
         </trans-unit>
         <trans-unit id="Page 1958049646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Allowed NOC</source>
