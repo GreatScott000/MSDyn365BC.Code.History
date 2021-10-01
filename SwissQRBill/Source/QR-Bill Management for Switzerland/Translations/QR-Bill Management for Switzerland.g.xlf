@@ -2663,6 +2663,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Swiss QR-Bill Umlaut Encoding - EnumValue Single - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Enum 2915270873 - EnumValue 2554055509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Western European ISO-8859-1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Swiss QR-Bill Umlaut Encoding - EnumValue Western European ISO-8859-1 - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
