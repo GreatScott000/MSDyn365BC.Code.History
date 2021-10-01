@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="DK Core">
+    <body>
+      <group id="body">
+        <trans-unit id="ReportExtension 2704275659 - NamedType 1873750193" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2704275659">
+          <source>Bank Branch No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension FinanceChargeMemoExt - NamedType BankBranchNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 426060017 - NamedType 1873750193" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 426060017">
+          <source>Bank Branch No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension ReminderExt - NamedType BankBranchNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3898823096 - NamedType 3122547451" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3898823096">
+          <source>Bank Branch No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension StatementExt - NamedType BankBranchNo_CompanyInfoCaptionLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

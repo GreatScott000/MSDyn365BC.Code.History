@@ -646,8 +646,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report OIOUBL-Create Elec. Srv. Inv. - NamedType SuccessMsg</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
@@ -660,8 +660,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
@@ -674,8 +674,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
@@ -688,8 +688,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
@@ -702,22 +702,22 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2259427799</note>
         </trans-unit>
         <trans-unit id="PageExtension 798849402 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 884441745</note>
@@ -758,22 +758,22 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 523354100</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 3392906730 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2503914580</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 2779371529 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2503914580</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 3095252104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2503914580</note>
@@ -786,29 +786,29 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2503914580</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende fakturaen til.</target>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende fakturaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2503914580</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre.</target>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2503914580</note>
         </trans-unit>
         <trans-unit id="PageExtension 3518481801 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2006185295</note>
         </trans-unit>
         <trans-unit id="PageExtension 415198515 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 60465730</note>
@@ -835,50 +835,50 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 3392906730 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 2779371529 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 3095252104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3088327135</note>
         </trans-unit>
         <trans-unit id="PageExtension 1456988694 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 730407297</note>
@@ -926,43 +926,43 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 3392906730 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 2779371529 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 3095252104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1331685701</note>
@@ -975,8 +975,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 3197070065</note>
         </trans-unit>
         <trans-unit id="PageExtension 1222741669 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende fakturaen til.</target>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende fakturaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1379883806</note>
@@ -1003,8 +1003,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
@@ -1017,8 +1017,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
@@ -1031,8 +1031,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
@@ -1045,8 +1045,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
@@ -1059,22 +1059,22 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende fakturaen til.</target>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende fakturaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre.</target>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2420212404</note>
@@ -1101,8 +1101,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 3434938165</note>
         </trans-unit>
         <trans-unit id="PageExtension 354415291 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1187328241</note>
@@ -1129,36 +1129,36 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 4222048109</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4222048109</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 3001618318 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the customer's reference.</source>
-          <target state="translated">Angiver debitorens reference.</target>
+          <source>Specifies the customer's reference. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver debitorens reference. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4222048109</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende fakturaen til.</target>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende fakturaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4222048109</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre.</target>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4222048109</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4222048109</note>
@@ -1185,43 +1185,43 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 3001618318 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the customer's reference.</source>
-          <target state="translated">Angiver debitorens reference.</target>
+          <source>Specifies the customer's reference. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver debitorens reference. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende fakturaen til.</target>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende fakturaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre.</target>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
         </trans-unit>
         <trans-unit id="PageExtension 638604442 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2649920062</note>
@@ -1248,8 +1248,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
@@ -1262,8 +1262,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
@@ -1276,8 +1276,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
@@ -1290,8 +1290,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
@@ -1304,22 +1304,22 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende fakturaen til.</target>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende fakturaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre.</target>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren, baseret på feltet GLN i den oprindelige salgsordre. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2716593954</note>
@@ -1346,71 +1346,71 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 2557560783</note>
         </trans-unit>
         <trans-unit id="PageExtension 1354157115 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer who you will send the credit memo to.</source>
-          <target state="translated">Angiver kontokoden for den debitor, som du vil sende kreditnotaen til.</target>
+          <source>Specifies the account code of the customer who you will send the credit memo to. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for den debitor, du vil sende kreditnotaen til. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1257057922</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 3392906730 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 87408810</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 2779371529 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 87408810</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 3095252104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 87408810</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 87408810</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 87408810</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 87408810</note>
         </trans-unit>
         <trans-unit id="PageExtension 2257681360 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 25694845</note>
         </trans-unit>
         <trans-unit id="PageExtension 4017187340 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1056066689</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
@@ -1423,8 +1423,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
@@ -1437,8 +1437,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
@@ -1451,8 +1451,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
@@ -1465,29 +1465,29 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1708100201</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
@@ -1500,8 +1500,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
@@ -1514,8 +1514,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
@@ -1528,8 +1528,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
@@ -1542,36 +1542,36 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 4034894651</note>
         </trans-unit>
         <trans-unit id="PageExtension 1402733168 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3689007477</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
@@ -1584,8 +1584,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
@@ -1598,8 +1598,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
@@ -1612,8 +1612,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
@@ -1626,64 +1626,64 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1673401186</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2079885696</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2079885696</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer. </source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. </target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2079885696</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2079885696</note>
         </trans-unit>
         <trans-unit id="PageExtension 3888199597 - Control 1847549155 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the amount including VAT for the whole document. The field may be filled automatically.</source>
-          <target state="translated">Angiver beløb inkl. moms for hele bilaget. Feltet udfyldes muligvis automatisk.</target>
+          <source>Specifies the amount including VAT for the whole document. The field may be filled automatically. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver beløbet med moms for hele bilaget. Feltet kan blive udfyldt automatisk. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2026081320</note>
         </trans-unit>
         <trans-unit id="PageExtension 3888199597 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2026081320</note>
@@ -1773,8 +1773,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 4145206282</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 2615331202 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the email address of the contact person at the customer.</source>
-          <target state="translated">Angiver mailadressen på kontakten hos debitoren.</target>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver mailadressen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
@@ -1787,8 +1787,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 897539873 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fax number of the contact person at the customer.</source>
-          <target state="translated">Angiver faxnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver faxnummeret på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
@@ -1801,8 +1801,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 979903104 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
-          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren.</target>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver telefonnummeret på kontakten hos debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
@@ -1815,8 +1815,8 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 2301941973 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
@@ -1829,113 +1829,113 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
         <trans-unit id="PageExtension 4064331809 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3053760138</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 3001618318 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the customer's reference.</source>
-          <target state="translated">Angiver debitorens reference.</target>
+          <source>Specifies the customer's reference. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver debitorens reference. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
         </trans-unit>
         <trans-unit id="PageExtension 3735423755 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1751478268</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1224914752</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 3001618318 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies Your Reference.</source>
-          <target state="translated">Angiver din reference.</target>
+          <source>Specifies Your Reference. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver din reference. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1224914752</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1224914752</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1224914752</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som debitoren kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1224914752</note>
         </trans-unit>
         <trans-unit id="PageExtension 255663659 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 754151050</note>
         </trans-unit>
         <trans-unit id="PageExtension 3504961273 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 997019036</note>
@@ -1976,29 +1976,29 @@
           <note from="ObjectTarget" annotates="general" priority="5">Page 297536702</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Angiver rollen for kontakten hos debitoren.</target>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver rollen på kontakten hos debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Angiver debitorens kontokode.</target>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver kontokoden for debitoren. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Angiver GLN-lokationsnummeret for debitoren.</target>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver GLN-lokationsnummeret for debitoren. Det bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
-          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske bilag.</target>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
+          <target state="translated">Angiver den profil, som denne debitor kræver til elektroniske dokumenter. Den bruges i det eksporterede elektroniske dokument.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>

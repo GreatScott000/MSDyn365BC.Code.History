@@ -585,13 +585,6 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3434938165</note>
         </trans-unit>
-        <trans-unit id="PageExtension 354415291 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Specifies the account code of the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 1187328241</note>
-        </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Action 1508892236 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>F&amp;unctions</source>
           <target state="translated">F&amp;unctions</target>
@@ -619,13 +612,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1778940791</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 638604442 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Specifies the account code of the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2649920062</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Action 1508892236 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>F&amp;unctions</source>
@@ -830,41 +816,6 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1598289728</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4263100351 - Control 3001618318 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the customer's reference.</source>
-          <target state="translated">Specifies the customer's reference.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 4263100351 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Specifies the role of the contact person at the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2832910486</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 3735423755 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Specifies the account code of the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 1751478268</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 255663659 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Specifies the account code of the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 754151050</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 3504961273 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Specifies the account code of the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 997019036</note>
-        </trans-unit>
         <trans-unit id="PageExtension 3249536815 - Control 901033786 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>OIOUBL Output paths</source>
           <target state="translated">OIOUBL Output paths</target>
@@ -899,34 +850,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 297536702</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2375302088 - Control 3095583229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the role of the contact person at the customer.</source>
-          <target state="translated">Specifies the role of the contact person at the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2375302088 - Control 698465781 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the account code of the customer.</source>
-          <target state="translated">Specifies the account code of the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2375302088 - Control 1470516358 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the GLN location number for the customer.</source>
-          <target state="translated">Specifies the GLN location number for the customer.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2375302088 - Control 491483755 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
-          <target state="translated">Specifies the profile that this customer requires for electronic documents.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2145436509</note>
         </trans-unit>
         <trans-unit id="TableExtension 8651240 - NamedType 1498947560" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The needed information to support OIOUBL is not provided in %1.</source>

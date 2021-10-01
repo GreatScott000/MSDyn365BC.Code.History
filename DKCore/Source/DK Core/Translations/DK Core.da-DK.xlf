@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="DK Core">
+    <body>
+      <group id="body">
+        <trans-unit id="ReportExtension 2704275659 - NamedType 1873750193" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Branch No.</source>
+          <target state="translated">Bankregistreringsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">ReportExtension 2704275659</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 426060017 - NamedType 1873750193" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Branch No.</source>
+          <target state="translated">Bankregistreringsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">ReportExtension 426060017</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3898823096 - NamedType 3122547451" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Branch No.</source>
+          <target state="translated">Bankregistreringsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">ReportExtension 3898823096</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

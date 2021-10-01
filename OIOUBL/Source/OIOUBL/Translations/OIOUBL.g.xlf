@@ -539,7 +539,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report OIOUBL-Create Elec. Srv. Inv. - NamedType SuccessMsg</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -549,7 +549,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -559,7 +559,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -569,7 +569,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -579,17 +579,17 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 55728046 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2259427799">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Blanked Sales Order - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 798849402 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 884441745">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-BlanketSalesOrderSub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -619,17 +619,17 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Customer Card - Control OIOUBL-Profile Code Required - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 3392906730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2503914580">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Finance Charge Memo - Control OIOUBL-Contact E-Mail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 2779371529 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2503914580">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Finance Charge Memo - Control OIOUBL-Contact Fax No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 3095252104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2503914580">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Finance Charge Memo - Control OIOUBL-Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -639,22 +639,22 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Finance Charge Memo - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2503914580">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Finance Charge Memo - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4129571841 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2503914580">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Finance Charge Memo - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3518481801 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2006185295">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-FinChrgMemoLines - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 415198515 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 60465730">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Issued Reminder Lines - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -674,37 +674,37 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Action CreateElectronicInvoice - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 3392906730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3088327135">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Control OIOUBL-Contact E-Mail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 2779371529 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3088327135">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Control OIOUBL-Contact Fax No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 3095252104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3088327135">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Control OIOUBL-Contact Phone No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3088327135">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3088327135">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1344584502 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3088327135">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinanceChargeMemo - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1456988694 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 730407297">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedFinChrgMemoLines - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -739,32 +739,32 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Action CreateElectronicInvoice - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 3392906730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1331685701">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Control OIOUBL-Contact E-Mail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 2779371529 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1331685701">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Control OIOUBL-Contact Fax No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 3095252104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1331685701">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Control OIOUBL-Contact Phone No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1331685701">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1331685701">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 501980936 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1331685701">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-IssuedReminder - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
@@ -774,7 +774,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Payment Terms - Control OIOUBL-Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1222741669 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Inv Sub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -794,7 +794,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Action CreateElectronicInvoices - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -804,7 +804,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -814,7 +814,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -824,7 +824,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -834,17 +834,17 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 442323289 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoice - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
@@ -864,7 +864,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Sales Invoices - Action Seperator - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 354415291 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187328241">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Serv Invoice Sub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -884,27 +884,27 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Cr Memo - Action CreateElectronicInvoices - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4222048109">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Cr Memo - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 3001618318 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4222048109">
-          <source>Specifies the customer's reference.</source>
+          <source>Specifies the customer's reference. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Cr Memo - Control Your Reference - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4222048109">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Cr Memo - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4222048109">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Cr Memo - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3576717900 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4222048109">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Cr Memo - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
@@ -924,32 +924,32 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Invoice - Action CreateElectronicInvoices - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1778940791">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Invoice - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 3001618318 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1778940791">
-          <source>Specifies the customer's reference.</source>
+          <source>Specifies the customer's reference. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Invoice - Control Your Reference - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1778940791">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Invoice - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1778940791">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Invoice - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3155273158 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1778940791">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Service Invoice - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 638604442 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2649920062">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Posted Srv Cr Memo Sub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -969,7 +969,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Action CreateElectronicInvoices - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -979,7 +979,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -989,7 +989,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -999,7 +999,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -1009,17 +1009,17 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the account code of the customer who you will send the invoice to.</source>
+          <source>Specifies the account code of the customer who you will send the invoice to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order.</source>
+          <source>Specifies the GLN location number for the customer, based on the GLN field in the original sales order. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3793403163 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemo - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
@@ -1039,52 +1039,52 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCreditMemos - Action Seperator - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1354157115 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1257057922">
-          <source>Specifies the account code of the customer who you will send the credit memo to.</source>
+          <source>Specifies the account code of the customer who you will send the credit memo to. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-PostedSalesCrMemoSub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 3392906730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 87408810">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Reminder - Control OIOUBL-Contact E-Mail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 2779371529 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 87408810">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Reminder - Control OIOUBL-Contact Fax No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 3095252104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 87408810">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Reminder - Control OIOUBL-Contact Phone No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 87408810">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Reminder - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 87408810">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Reminder - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1012559283 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 87408810">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Reminder - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2257681360 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 25694845">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-ReminderLines - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4017187340 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Cr. Memo Subform - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -1094,7 +1094,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -1104,7 +1104,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -1114,7 +1114,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -1124,22 +1124,22 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 341639772 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Credit Memo - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -1149,7 +1149,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -1159,7 +1159,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -1169,7 +1169,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -1179,27 +1179,27 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2516129578 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 1402733168 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Invoice Subform - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -1209,7 +1209,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -1219,7 +1219,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -1229,7 +1229,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -1239,47 +1239,47 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3570045267 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2079885696">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order Archive - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2079885696">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order Archive - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2079885696">
-          <source>Specifies the telephone number of the contact person at the customer. </source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order Archive - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4271043301 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2079885696">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order Archive - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3888199597 - Control 1847549155 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
-          <source>Specifies the amount including VAT for the whole document. The field may be filled automatically.</source>
+          <source>Specifies the amount including VAT for the whole document. The field may be filled automatically. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order Subform - Control OIOUBL-Amount Including VAT - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3888199597 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Order Subform - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -1344,7 +1344,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Receivables Setup - Control OIOUBL-Reminder Path - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 2615331202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
-          <source>Specifies the email address of the contact person at the customer.</source>
+          <source>Specifies the email address of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact E-Mail - Property ToolTip</note>
         </trans-unit>
@@ -1354,7 +1354,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact E-Mail - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 897539873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
-          <source>Specifies the fax number of the contact person at the customer.</source>
+          <source>Specifies the fax number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact Fax No. - Property ToolTip</note>
         </trans-unit>
@@ -1364,7 +1364,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact Fax No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 979903104 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
-          <source>Specifies the telephone number of the contact person at the customer.</source>
+          <source>Specifies the telephone number of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact Phone No. - Property ToolTip</note>
         </trans-unit>
@@ -1374,7 +1374,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact Phone No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 2301941973 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact Role - Property ToolTip</note>
         </trans-unit>
@@ -1384,82 +1384,82 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Sell-to Contact Role - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4242705117 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4064331809 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3053760138">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Sales Return Order Sub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 3001618318 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2832910486">
-          <source>Specifies the customer's reference.</source>
+          <source>Specifies the customer's reference. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Credit Memo - Control Your Reference - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2832910486">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Credit Memo - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2832910486">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Credit Memo - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2832910486">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Credit Memo - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4263100351 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2832910486">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Credit Memo - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3735423755 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1751478268">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Credit Memo Sub - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Invoice - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 3001618318 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
-          <source>Specifies Your Reference.</source>
+          <source>Specifies Your Reference. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Invoice - Control Your Reference - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Invoice - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Invoice - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3524395669 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
-          <source>Specifies the profile that the customer requires for electronic documents.</source>
+          <source>Specifies the profile that the customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Invoice - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 255663659 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 754151050">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Invoice Subform - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3504961273 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 997019036">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Lines - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
@@ -1489,22 +1489,22 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Mgt. Setup - Control OIOUBL-Service Invoice Path - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 3095583229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2145436509">
-          <source>Specifies the role of the contact person at the customer.</source>
+          <source>Specifies the role of the contact person at the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Order - Control OIOUBL-Contact Role - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 698465781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2145436509">
-          <source>Specifies the account code of the customer.</source>
+          <source>Specifies the account code of the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Order - Control OIOUBL-Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 1470516358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2145436509">
-          <source>Specifies the GLN location number for the customer.</source>
+          <source>Specifies the GLN location number for the customer. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Order - Control OIOUBL-GLN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2375302088 - Control 491483755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2145436509">
-          <source>Specifies the profile that this customer requires for electronic documents.</source>
+          <source>Specifies the profile that this customer requires for electronic documents. This is used in the exported electronic document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension OIOUBL-Service Order - Control OIOUBL-Profile Code - Property ToolTip</note>
         </trans-unit>
