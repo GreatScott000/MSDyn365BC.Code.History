@@ -13187,25 +13187,25 @@
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 2803003124 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Executive paper (7.25 in. by 10.5 in.).</source>
-          <target state="translated">Executive-papir (7,25 x 10,5 tommer).</target>
+          <target state="translated">Executive paper (7.25 in. by 10.5 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Executive - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 4111634021 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Folio paper (8.5 in. by 13 in.).</source>
-          <target state="translated">Foliopapir (8,5 x 13 tommer).</target>
+          <target state="translated">Folio paper (8.5 in. by 13 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Folio - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 2396307235 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>German legal fanfold (8.5 in. by 13 in.).</source>
-          <target state="translated">Legal endeløse baner (Tyskland) (8,5 x 13 tommer).</target>
+          <target state="translated">German legal fanfold (8.5 in. by 13 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue GermanLegalFanfold - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 3023036483 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>German standard fanfold (8.5 in. by 12 in.).</source>
-          <target state="translated">Tysk standard, endeløse baner (8,5 x 12 tommer).</target>
+          <target state="translated">German standard fanfold (8.5 in. by 12 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue GermanStandardFanfold - Property Caption</note>
         </trans-unit>
@@ -13277,61 +13277,61 @@
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 4207495877 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Legal paper (8.5 in. by 14 in.).</source>
-          <target state="translated">Legal-papir (8,5 x 14 tommer).</target>
+          <target state="translated">Legal paper (8.5 in. by 14 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Legal - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 978800674 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Letter paper (8.5 in. by 11 in.).</source>
-          <target state="translated">Letter-papir (8,5 x 11 tommer).</target>
+          <target state="translated">Letter paper (8.5 in. by 11 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Letter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 1133706470 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Monarch envelope (3.875 in. by 7.5 in.).</source>
-          <target state="translated">Monarch-konvolut (3,875 x 7,5 tommer).</target>
+          <target state="translated">Monarch envelope (3.875 in. by 7.5 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue MonarchEnvelope - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 2898143332 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Note paper (8.5 in. by 11 in.).</source>
-          <target state="translated">Notespapir (8,5 x 11 tommer).</target>
+          <target state="translated">Note paper (8.5 in. by 11 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Note - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 1036356856 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>#10 envelope (4.125 in. by 9.5 in.).</source>
-          <target state="translated">#10 konvolut (4,125 x 9,5 tommer).</target>
+          <target state="translated">#10 envelope (4.125 in. by 9.5 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Number10Envelope - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 3743832655 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>#11 envelope (4.5 in. by 10.375 in.).</source>
-          <target state="translated">#11 konvolut (4,5 x 10,375 tommer).</target>
+          <target state="translated">#11 envelope (4.5 in. by 10.375 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Number11Envelope - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 1950509994 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>#12 envelope (4.75 in. by 11 in.).</source>
-          <target state="translated">#12 konvolut (4,75 x 11 tommer).</target>
+          <target state="translated">#12 envelope (4.75 in. by 11 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Number12Envelope - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 882514588 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>#14 envelope (5 in. by 11.5 in.).</source>
-          <target state="translated">#14 konvolut (5 x 11,5 tommer).</target>
+          <target state="translated">#14 envelope (5 in. by 11.5 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Number14Envelope - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 86285640 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>#9 envelope (3.875 in. by 8.875 in.).</source>
-          <target state="translated">#9 konvolut (3,875 x 8,875 tommer).</target>
+          <target state="translated">#9 envelope (3.875 in. by 8.875 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Number9Envelope - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 3981077642 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>6 3/4 envelope (3.625 in. by 6.5 in.).</source>
-          <target state="translated">6 3/4-konvolut (3,625 x 6,5 tommer).</target>
+          <target state="translated">6 3/4 envelope (3.625 in. by 6.5 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue PersonalEnvelope - Property Caption</note>
         </trans-unit>
@@ -13451,7 +13451,7 @@
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 1002125975 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Statement paper (5.5 in. by 8.5 in.).</source>
-          <target state="translated">Papir til kontoudtog (5,5 x 8,5 tommer).</target>
+          <target state="translated">Statement paper (5.5 in. by 8.5 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue Statement - Property Caption</note>
         </trans-unit>
@@ -13463,7 +13463,7 @@
         </trans-unit>
         <trans-unit id="Enum 2435677820 - EnumValue 728629095 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>US standard fanfold (14.875 in. by 11 in.).</source>
-          <target state="translated">Standard, endeløse baner, USA (14,875 x 11 tommer).</target>
+          <target state="translated">US standard fanfold (14.875 in. by 11 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Paper Kind - EnumValue USStandardFanfold - Property Caption</note>
         </trans-unit>
@@ -13565,25 +13565,25 @@
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 592964086 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The default unit (0.01 in.)</source>
-          <target state="translated">Standardenheden (0,01 tomme)</target>
+          <target state="translated">The default unit (0.01 in.)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue Display - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 1616776695 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One-hundredth of a millimeter (0.01 mm).</source>
-          <target state="translated">En hundrededel af en millimeter (0,01 mm).</target>
+          <target state="translated">One-hundredth of a millimeter (0.01 mm).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue HundredthsOfAMillimeter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 1104904322 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One-tenth of a millimeter (0.1 mm).</source>
-          <target state="translated">En tiendedel af en millimeter (0,1 mm).</target>
+          <target state="translated">One-tenth of a millimeter (0.1 mm).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue TenthsOfAMillimeter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 4163264573 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One-thousandth of an inch (0.001 in.).</source>
-          <target state="translated">En tusindedel af en tomme (0,001 tomme).</target>
+          <target state="translated">One-thousandth of an inch (0.001 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue ThousandthsOfAnInch - Property Caption</note>
         </trans-unit>
