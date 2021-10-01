@@ -7461,25 +7461,25 @@
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 592964086 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The default unit (0.01 in.)</source>
-          <target state="translated">Standardenheten (0,01 tommer)</target>
+          <target state="translated">The default unit (0.01 in.)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue Display - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 1616776695 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One-hundredth of a millimeter (0.01 mm).</source>
-          <target state="translated">En hundredel av en millimeter (0,01 mm).</target>
+          <target state="translated">One-hundredth of a millimeter (0.01 mm).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue HundredthsOfAMillimeter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 1104904322 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One-tenth of a millimeter (0.1 mm).</source>
-          <target state="translated">En tiendedel av en millimeter (0,1 mm).</target>
+          <target state="translated">One-tenth of a millimeter (0.1 mm).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue TenthsOfAMillimeter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1233198380 - EnumValue 4163264573 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>One-thousandth of an inch (0.001 in.).</source>
-          <target state="translated">En tusendel av en tomme (0,001 tommer).</target>
+          <target state="translated">One-thousandth of an inch (0.001 in.).</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Printer Unit - EnumValue ThousandthsOfAnInch - Property Caption</note>
         </trans-unit>
