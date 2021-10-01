@@ -2492,6 +2492,7 @@
         </trans-unit>
         <trans-unit id="Enum 1610557497 - EnumValue 1371923692 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum SAF-T Data Check status - EnumValue   - Property Caption</note>
         </trans-unit>
