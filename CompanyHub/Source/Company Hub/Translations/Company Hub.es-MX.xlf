@@ -1907,7 +1907,7 @@
         </trans-unit>
         <trans-unit id="Page 2174524830 - Control 1428064786 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the number of sales credit memos pending sending to the document exchange that are assigned to you or to a group that you are a member of.</source>
-          <target state="translated">Especifica el número de notas de crédito de venta pendientes de envío al intercambio de documentos que tiene asignados o que se han asignado a un grupo del que es miembro.</target>
+          <target state="translated">Especifica el número de notas de crédito de venta pendientes de envío al intercambio de documentos que tiene asignadas o que se han asignado a un grupo del que es miembro.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page COHUB Company Short Summary - Control Sales CrM. - Pending Doc.Exch. - Property ToolTip</note>
         </trans-unit>
@@ -2315,7 +2315,7 @@
         </trans-unit>
         <trans-unit id="Page 937184972 - Control 1428064786 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the number of sales credit memos pending sending to the document exchange that are assigned to you or to a group that you are a member of.</source>
-          <target state="translated">Especifica el número de notas de crédito de venta pendientes de envío al intercambio de documentos que tiene asignados o que se han asignado a un grupo del que es miembro.</target>
+          <target state="translated">Especifica el número de notas de crédito de venta pendientes de envío al intercambio de documentos que tiene asignadas o que se han asignado a un grupo del que es miembro.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page COHUB Company Summary - Control Sales CrM. - Pending Doc.Exch. - Property ToolTip</note>
         </trans-unit>
