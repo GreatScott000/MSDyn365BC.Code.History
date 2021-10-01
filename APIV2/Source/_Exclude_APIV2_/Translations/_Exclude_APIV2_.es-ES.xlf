@@ -3713,7 +3713,7 @@
         </trans-unit>
         <trans-unit id="Page 251039050 - Control 2594985536 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Calc. Pmt. Disc. On Credit Memos</source>
-          <target state="translated">Calc. dto. P.P. en abonos</target>
+          <target state="translated">Calc. dto. P.P. en notas de abono</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Payment Terms - Control calculateDiscountOnCreditMemos - Property Caption</note>
         </trans-unit>
@@ -4887,6 +4887,12 @@
           <note from="Developer" annotates="general" priority="2">pricesIncludeTax is a field name and should not be translated.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Orders - NamedType CannotEnablePricesIncludeTaxErr</note>
         </trans-unit>
+        <trans-unit id="Page 825103897 - NamedType 983217553" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order cannot be found.</source>
+          <target state="translated">No se encuentra el pedido.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Orders - NamedType CannotFindOrderErr</note>
+        </trans-unit>
         <trans-unit id="Page 825103897 - NamedType 259424556" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The buy-from vendor cannot be found.</source>
           <target state="translated">No se encuentra el proveedor de la dirección de compra.</target>
@@ -5525,7 +5531,7 @@
         </trans-unit>
         <trans-unit id="Page 1420007888 - Property 3446740159" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Credit Memo Line</source>
-          <target state="translated">Línea abono venta</target>
+          <target state="translated">Línea nota abono venta</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Mem Lines - Property EntityCaption</note>
         </trans-unit>
@@ -5753,25 +5759,25 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>APIV2 - Sales Credit Memos</source>
-          <target state="translated">APIV2 - Abonos de venta</target>
+          <target state="translated">APIV2 - Notas de abono de venta</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3006414751 - Property 3446740159" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Credit Memo</source>
-          <target state="translated">Abono venta</target>
+          <target state="translated">Nota abono venta</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - Property EntityCaption</note>
         </trans-unit>
         <trans-unit id="Page 3006414751 - Property 631549417" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Credit Memos</source>
-          <target state="translated">Abonos de venta</target>
+          <target state="translated">Notas de abono de venta</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - Property EntitySetCaption</note>
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 2435911484" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The credit memo cannot be cancelled because it has already been canceled.</source>
-          <target state="translated">No se puede cancelar el abono porque ya se ha cancelado.</target>
+          <target state="translated">No se puede cancelar la nota de abono porque ya se ha cancelado.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType AlreadyCancelledErr</note>
         </trans-unit>
@@ -5783,19 +5789,19 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 3911703272" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the credit memo failed because of the following error: \\%1\\An invoice is posted.</source>
-          <target state="translated">No se ha podido cancelar el abono debido al siguiente error: \\%1\\Se ha registrado una factura.</target>
+          <target state="translated">No se ha podido cancelar la nota de abono debido al siguiente error: \\%1\\Se ha registrado una factura.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType CancelingCreditMemoFailedInvoiceCreatedAndPostedErr</note>
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 3551748667" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the credit memo failed because of the following error: \\%1\\An invoice is created but not posted.</source>
-          <target state="translated">No se ha podido cancelar el abono debido al siguiente error: \\%1\\Se ha creado una factura pero no se ha registrado.</target>
+          <target state="translated">No se ha podido cancelar la nota de abono debido al siguiente error: \\%1\\Se ha creado una factura pero no se ha registrado.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType CancelingCreditMemoFailedInvoiceCreatedButNotPostedErr</note>
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 2570812846" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the credit memo failed because of the following error: \\%1.</source>
-          <target state="translated">No se pudo cancelar el abono debido al siguiente error: \\%1.</target>
+          <target state="translated">No se pudo cancelar la nota de abono debido al siguiente error: \\%1.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType CancelingCreditMemoFailedNothingCreatedErr</note>
         </trans-unit>
@@ -5807,7 +5813,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 3058381394" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The credit memo cannot be found.</source>
-          <target state="translated">No se encuentra el abono.</target>
+          <target state="translated">No se encuentra la nota de abono.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType CannotFindCreditMemoErr</note>
         </trans-unit>
@@ -5843,7 +5849,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 3517791419" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The action can be applied to a draft credit memo only.</source>
-          <target state="translated">La acción se puede aplicar a un borrador de abono solamente.</target>
+          <target state="translated">La acción solo se puede aplicar a un borrador de nota de abono.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType DraftCreditMemoActionErr</note>
         </trans-unit>
@@ -5861,7 +5867,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 1303806686" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please add at least one line item to the credit memo.</source>
-          <target state="translated">Agregue al menos un producto de línea al abono.</target>
+          <target state="translated">Agregue al menos un producto de línea a la nota de abono.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType NoLineErr</note>
         </trans-unit>
@@ -5873,7 +5879,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - NamedType 30303159" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The action can be applied to a posted credit memo only.</source>
-          <target state="translated">La acción se puede aplicar solo a un abono registrado.</target>
+          <target state="translated">La acción solo se puede aplicar a un abono registrado.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - NamedType PostedCreditMemoActionErr</note>
         </trans-unit>
@@ -5963,7 +5969,7 @@
         </trans-unit>
         <trans-unit id="Page 3006414751 - Control 1341711477 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Credit Memo Date</source>
-          <target state="translated">Fecha abono</target>
+          <target state="translated">Fecha nota abono</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Credit Memos - Control creditMemoDate - Property Caption</note>
         </trans-unit>
@@ -6443,13 +6449,13 @@
         </trans-unit>
         <trans-unit id="Page 3783002405 - NamedType 3395541992" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the invoice failed because of the following error: \\%1\\A credit memo is posted.</source>
-          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se registra un abono.</target>
+          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se registra una nota de abono.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Invoices - NamedType CancelingInvoiceFailedCreditMemoCreatedAndPostedErr</note>
         </trans-unit>
         <trans-unit id="Page 3783002405 - NamedType 554130235" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Canceling the invoice failed because of the following error: \\%1\\A credit memo is created but not posted.</source>
-          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se crea un abono, pero no se lo registra.</target>
+          <target state="translated">Error al cancelar la factura debido al siguiente error: \\%1\\Se crea una nota de abono, pero no se registra.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Invoices - NamedType CancelingInvoiceFailedCreditMemoCreatedButNotPostedErr</note>
         </trans-unit>
@@ -6515,13 +6521,13 @@
         </trans-unit>
         <trans-unit id="Page 3783002405 - NamedType 1145065570" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The invoice is closed. The corrective credit memo will not be applied to the invoice.</source>
-          <target state="translated">La factura está cerrada. El abono correctivo no se aplicará a la factura.</target>
+          <target state="translated">La factura está cerrada. No se aplicará la nota de abono correctiva a la factura.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Invoices - NamedType InvoiceClosedErr</note>
         </trans-unit>
         <trans-unit id="Page 3783002405 - NamedType 1732419882" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The invoice is partially paid or credited. The corrective credit memo may not be fully closed by the invoice.</source>
-          <target state="translated">La factura está pagada o abonada parcialmente. Es posible que el abono correctivo no esté cerrado totalmente por la factura.</target>
+          <target state="translated">La factura está pagada o abonada parcialmente. Es posible que la nota de abono correctiva no esté cerrada totalmente por la factura.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Invoices - NamedType InvoicePartiallyPaidErr</note>
         </trans-unit>
