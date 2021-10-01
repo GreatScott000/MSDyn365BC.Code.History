@@ -285,17 +285,17 @@
           <note from="Developer" annotates="general" priority="2">%1 = Field Caption, %2 = Field Value</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Acquisition Handler CZF - NamedType SpecifiedTogetherErr</note>
         </trans-unit>
-        <trans-unit id="Codeunit 181215587 - Method 344282215 - NamedType 3499056126" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 181215587 - Method 146058358 - NamedType 3499056126" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 + %2 must be %3.</source>
           <target state="translated">%1 + %2 musí být %3.</target>
           <note from="Developer" annotates="general" priority="2">%1 = VAT Amount, %2 = VAT Base Amount, %3 = Amount</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Acquisition Handler CZF - Method CheckAcquisitionAsCustom2OnAfterCheckGenJnlLine - NamedType VATAmountErr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Acquisition Handler CZF - Method CheckAcquisitionAsCustom2OnBeforeCheckAccountNo - NamedType VATAmountErr</note>
         </trans-unit>
-        <trans-unit id="Codeunit 181215587 - Method 344282215 - NamedType 2276210216" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 181215587 - Method 274896855 - NamedType 2276210216" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 + %2 must be -%3.</source>
           <target state="translated">%1 + %2 musí být -%3.</target>
           <note from="Developer" annotates="general" priority="2">%1 = VAT Amount, %2 = VAT Base Amount, %3 = Amount</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Acquisition Handler CZF - Method CheckAcquisitionAsCustom2OnAfterCheckGenJnlLine - NamedType BalanceVATAmountErr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Acquisition Handler CZF - Method CheckAcquisitionAsCustom2OnBeforeCheckBalAccountNo - NamedType BalanceVATAmountErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 181215587 - Method 382984158 - NamedType 3805625961" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The first entry must be an Acquisition Cost for Fixed Asset %1.</source>
@@ -308,6 +308,12 @@
           <target state="translated">Je nutné zadat %1.</target>
           <note from="Developer" annotates="general" priority="2">%1 = FieldCaption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Acquisition Handler CZF - Method TestFixedAssetOnAfterCheckGenJnlLine - NamedType FieldMustBeSpecifiedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 87876262 - Method 354652567 - NamedType 2863676187" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Posting Group can not be changed if there is at least one FA Entry for Fixed Asset and Deprecation Book.</source>
+          <target state="translated">Účto skupinu DM nelze změnit, pokud existuje alespoň jedna položka DM pro dlouhodobý majetek a knihu odpisů.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA Deprec. Book Handler CZF - Method CheckFALedgerEntriesExistOnBeforeFAPostingGroup - NamedType FAPostingGroupCanNotBeChangedErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 87876262 - Method 1980008236 - NamedType 599275449" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The depreciation group (%1) associated with classification code %2 doesn't correspond to depreciation group (%3) associated with tax depreciation group code %4.</source>
@@ -363,41 +369,41 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit FA History Management CZF - Method PrintAssignmentAndDiscard - NamedType PrintAssignmentDiscardReportQst</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3068113326 - Method 4157038798 - NamedType 3238138816" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4282163793 - Method 4157038798 - NamedType 3238138816" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Classification Codes</source>
           <target state="translated">Kódy klasifikace</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZF - Method RegisterClassificationCode - NamedType ClassificationCodeNameTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZF - Method RegisterClassificationCode - NamedType ClassificationCodeNameTxt</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3068113326 - Method 4157038798 - NamedType 2789993271" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4282163793 - Method 4157038798 - NamedType 2789993271" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Set up Classification Codes for Fixed Assets. Production Classification marked CZ-CPA, Classification building operations marked CZ-CC else DNM).</source>
           <target state="translated">Nastavte kódy klasifikace pro dlouhodobý majetek. Klasifikace produkce je označená CZ-CPA, klasifikace stavebních děl je označená CZ-CC jinak DNM).</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZF - Method RegisterClassificationCode - NamedType ClassificationCodeDescriptionTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZF - Method RegisterClassificationCode - NamedType ClassificationCodeDescriptionTxt</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3068113326 - Method 4157038798 - NamedType 1044751851" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4282163793 - Method 4157038798 - NamedType 1044751851" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>FA, Fixed Assets, Classification</source>
-          <target state="translated">DM, dlouhodobý majetek, klasifikace</target>
+          <target state="translated">DM, Dlouhodobý majetek, Klasifikace</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZF - Method RegisterClassificationCode - NamedType ClassificationCodeKeywordsTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZF - Method RegisterClassificationCode - NamedType ClassificationCodeKeywordsTxt</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3068113326 - Method 1844075641 - NamedType 1666551379" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4282163793 - Method 1844075641 - NamedType 1666551379" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Tax Depreciation Groups</source>
           <target state="translated">Skupiny daňových odpisů</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZF - Method RegisterDepreciationGroup - NamedType DepreciationGroupNameTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZF - Method RegisterDepreciationGroup - NamedType DepreciationGroupNameTxt</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3068113326 - Method 1844075641 - NamedType 340683684" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4282163793 - Method 1844075641 - NamedType 340683684" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Set up Tax Depreciation Groups for Fixes Assets. These groups determine minimal depreciation periods and parameters used for calculating tax depreciation.</source>
           <target state="translated">Nastavit daňové odpisové skupiny majetku. Pro každou skupinu se definuje metoda odepisování a další parametry pro výpočet daňových odpisů dlouhodobého majetku.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZF - Method RegisterDepreciationGroup - NamedType DepreciationGroupDescriptionTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZF - Method RegisterDepreciationGroup - NamedType DepreciationGroupDescriptionTxt</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3068113326 - Method 1844075641 - NamedType 3135446056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4282163793 - Method 1844075641 - NamedType 3135446056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>FA, Fixed Assets, Tax Depreciations</source>
-          <target state="translated">DM, dlouhodobý majetek, daňové odpisy</target>
+          <target state="translated">DM, Dlouhodobý majetek, Daňové odpisy</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZF - Method RegisterDepreciationGroup - NamedType DepreciationGroupKeywordsTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZF - Method RegisterDepreciationGroup - NamedType DepreciationGroupKeywordsTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 3554388429 - Method 2864351681 - NamedType 1485835295" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Use standard FA reports substitution.</source>
@@ -3628,12 +3634,26 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 1855807544</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1156164925 - Control 4068571274 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the correction will be posted on the same side of account (credit, debit).</source>
+          <target state="translated">Určuje, jestli oprava bude účtována na stejné straně účtu (Dal, MD).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 1855807544</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2876134157 - Control 3451839272 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the reason code on the entry.</source>
           <target state="translated">Určuje kód příčiny položky.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 613941480</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 236810223 - Control 1205405867 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the default fixed asset depreciation book.</source>
+          <target state="translated">Určuje výchozí knihu odpisů dlouhodobého majetku.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 2774212634</note>
         </trans-unit>
         <trans-unit id="PageExtension 236810223 - Control 3511962229 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies group code for tax depreciation of assets.</source>
@@ -4403,6 +4423,18 @@
           <target state="translated">Lineární nehmotný</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Tax Depreciation Type CZF - EnumValue Straight-Line Intangible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 4243341595 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Fixed Asset - Edit</source>
+          <target state="translated">CZ Dlouhodobý majetek - úprava</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Fixed Asset - Edit CZF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 720383161 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Fixed Asset - Read</source>
+          <target state="translated">CZ Dlouhodobý majetek - čtení</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Fixed Asset - Read CZF - Property Caption</note>
         </trans-unit>
       </group>
     </body>

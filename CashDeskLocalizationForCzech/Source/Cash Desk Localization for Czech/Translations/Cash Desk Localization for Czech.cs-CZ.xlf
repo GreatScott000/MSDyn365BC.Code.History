@@ -2343,6 +2343,78 @@
           <note from="Developer" annotates="general" priority="2">%1 = cash desk code</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit EET Management CZP - Method CheckCashDocumentAction - NamedType EETDocReleaseDeniedErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3906687554 - NamedType 156115317" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk Events</source>
+          <target state="translated">Pokladní případy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDeskEvents - NamedType CashDeskEventNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3906687554 - NamedType 2690956470" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define posting and VAT for cash events.</source>
+          <target state="translated">Definujte účtování a DPH pro pokladní případy.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDeskEvents - NamedType CashDeskEventDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3906687554 - NamedType 3915743690" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk, Event, Receipt, Withdrawal</source>
+          <target state="translated">Pokladna, Případ, Příjem, Výdej</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDeskEvents - NamedType CashDeskEventKeywordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3004989934 - NamedType 275521137" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desks</source>
+          <target state="translated">Pokladny</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDesks - NamedType CashDeskNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3004989934 - NamedType 2564833490" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up individual cash desks. For individual cash desk, you can set up No. Series, Cash desk users, etc.</source>
+          <target state="translated">Nastavení jednotlivých pokladen. Pro jednotlivé pokladny lze nastavit číselné řady dokladů, uživatele pokladny, atd.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDesks - NamedType CashDeskDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3004989934 - NamedType 640536270" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk</source>
+          <target state="translated">Pokladna</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDesks - NamedType CashDeskKeywordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 575906865 - NamedType 913198239" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Nominal Values</source>
+          <target state="translated">Nominální hodnoty měny</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterNominalValues - NamedType CurrencyNominalValueNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 575906865 - NamedType 3109490256" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define the currency values used in the cash registers.</source>
+          <target state="translated">Definujte používané hodnoty měn v pokladnách.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterNominalValues - NamedType CurrencyNominalValueDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 575906865 - NamedType 1748807548" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk, Currency, Banknote, Coin</source>
+          <target state="translated">Pokladna, Měna, Bankovka, Mince</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterNominalValues - NamedType CurrencyNominalValueKeywordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3423262017 - NamedType 2350325743" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Methods</source>
+          <target state="translated">Způsoby platby</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterPaymentMethods - NamedType CurrencyPaymentMethodNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3423262017 - NamedType 2248512800" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define the payment methods used in the documents.</source>
+          <target state="translated">Definujte způsoby platby použité v dokladech.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterPaymentMethods - NamedType CurrencyPaymentMethodDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3423262017 - NamedType 2823439564" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment, Cash Desk</source>
+          <target state="translated">Platba, Pokladna</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterPaymentMethods - NamedType CurrencyPaymentMethodKeywordsTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 551042222 - Method 626513958 - NamedType 2840716348" maxwidth="10" size-unit="char" translate="yes" xml:space="preserve">
           <source>CASHDESK</source>
           <target state="translated">POKLADNA</target>
@@ -2354,78 +2426,6 @@
           <target state="translated">Pokladní evidence</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Install Application CZP - Method InitCashDeskSourceCode - NamedType CashDeskSourceDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3709738723 - NamedType 275521137" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desks</source>
-          <target state="translated">Pokladny</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDesk - NamedType CashDeskNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3709738723 - NamedType 2564833490" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Set up individual cash desks. For individual cash desk, you can set up No. Series, Cash desk users, etc.</source>
-          <target state="translated">Nastavení jednotlivých pokladen. Pro jednotlivé pokladny lze nastavit číselné řady dokladů, uživatele pokladny, atd.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDesk - NamedType CashDeskDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3709738723 - NamedType 640536270" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk</source>
-          <target state="translated">Pokladna</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDesk - NamedType CashDeskKeywordsTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 292559287 - NamedType 156115317" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk Events</source>
-          <target state="translated">Pokladní případy</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDeskEvent - NamedType CashDeskEventNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 292559287 - NamedType 2690956470" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Define posting and VAT for cash events.</source>
-          <target state="translated">Definujte účtování a DPH pro pokladní případy.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDeskEvent - NamedType CashDeskEventDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 292559287 - NamedType 3915743690" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk, Event, Receipt, Withdrawal</source>
-          <target state="translated">Pokladna, Případ, Příjem, Výdej</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDeskEvent - NamedType CashDeskEventKeywordsTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3698427920 - NamedType 913198239" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Currency Nominal Values</source>
-          <target state="translated">Nominální hodnoty měny</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterNominalValue - NamedType CurrencyNominalValueNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3698427920 - NamedType 3109490256" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Define the currency values used in the cash registers.</source>
-          <target state="translated">Definujte používané hodnoty měn v pokladnách.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterNominalValue - NamedType CurrencyNominalValueDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3698427920 - NamedType 1748807548" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk, Currency, Banknote, Coin</source>
-          <target state="translated">Pokladna, Měna, Bankovka, Mince</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterNominalValue - NamedType CurrencyNominalValueKeywordsTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 1024093824 - NamedType 2350325743" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Payment Methods</source>
-          <target state="translated">Způsoby platby</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterPaymentMethod - NamedType CurrencyPaymentMethodNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 1024093824 - NamedType 2248512800" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Define the payment methods used in the documents.</source>
-          <target state="translated">Definujte způsoby platby použité v dokladech.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterPaymentMethod - NamedType CurrencyPaymentMethodDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 1024093824 - NamedType 2823439564" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Payment, Cash Desk</source>
-          <target state="translated">Platba, Pokladna</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterPaymentMethod - NamedType CurrencyPaymentMethodKeywordsTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 448781786 - Method 245105598 - NamedType 400615531" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cash Desk Ledger Entry</source>
@@ -2567,7 +2567,7 @@
         </trans-unit>
         <trans-unit id="Page 4259462887 - Control 284764054 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the country/region code.</source>
-          <target state="translated">Určuje kód země nebo oblasti.</target>
+          <target state="translated">Určuje kód země/oblasti.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Cash Desk Card CZP - Control Country/Region Code - Property ToolTip</note>
         </trans-unit>
@@ -8090,7 +8090,7 @@
         </trans-unit>
         <trans-unit id="Enum 521952194 - EnumValue 4274826855 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>G/L Account</source>
-          <target state="translated">Finanční účet</target>
+          <target state="translated">Účet</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Cash Document Account Type CZP - EnumValue G/L Account - Property Caption</note>
         </trans-unit>
@@ -8239,6 +8239,25 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Enum 1170745677</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1995578528 - EnumValue 1415786139 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk</source>
+          <target state="translated">Pokladna</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Enum 4244706559</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1011356315 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Cash Desk - Edit</source>
+          <target state="translated">Pokladna CZ - úprava</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Cash Desk - Edit CZP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1447313689 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Cash Desk - Read</source>
+          <target state="translated">Pokladna CZ - čtení</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Cash Desk - Read CZP - Property Caption</note>
         </trans-unit>
       </group>
     </body>

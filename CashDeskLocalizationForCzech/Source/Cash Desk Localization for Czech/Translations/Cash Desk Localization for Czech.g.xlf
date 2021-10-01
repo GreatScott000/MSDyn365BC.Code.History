@@ -1953,6 +1953,66 @@
           <note from="Developer" annotates="general" priority="2">%1 = cash desk code</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit EET Management CZP - Method CheckCashDocumentAction - NamedType EETDocReleaseDeniedErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3906687554 - NamedType 156115317" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk Events</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDeskEvents - NamedType CashDeskEventNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3906687554 - NamedType 2690956470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define posting and VAT for cash events.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDeskEvents - NamedType CashDeskEventDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3906687554 - NamedType 3915743690" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk, Event, Receipt, Withdrawal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDeskEvents - NamedType CashDeskEventKeywordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3004989934 - NamedType 275521137" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDesks - NamedType CashDeskNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3004989934 - NamedType 2564833490" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up individual cash desks. For individual cash desk, you can set up No. Series, Cash desk users, etc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDesks - NamedType CashDeskDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3004989934 - NamedType 640536270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterCashDesks - NamedType CashDeskKeywordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 575906865 - NamedType 913198239" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Nominal Values</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterNominalValues - NamedType CurrencyNominalValueNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 575906865 - NamedType 3109490256" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define the currency values used in the cash registers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterNominalValues - NamedType CurrencyNominalValueDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 575906865 - NamedType 1748807548" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Desk, Currency, Banknote, Coin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterNominalValues - NamedType CurrencyNominalValueKeywordsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3423262017 - NamedType 2350325743" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Methods</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterPaymentMethods - NamedType CurrencyPaymentMethodNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3423262017 - NamedType 2248512800" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define the payment methods used in the documents.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterPaymentMethods - NamedType CurrencyPaymentMethodDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2875801011 - Method 3423262017 - NamedType 2823439564" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment, Cash Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZP - Method RegisterPaymentMethods - NamedType CurrencyPaymentMethodKeywordsTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 551042222 - Method 626513958 - NamedType 2840716348" maxwidth="10" size-unit="char" translate="yes" xml:space="preserve">
           <source>CASHDESK</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1962,66 +2022,6 @@
           <source>Cash Desk Evidence</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Install Application CZP - Method InitCashDeskSourceCode - NamedType CashDeskSourceDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3709738723 - NamedType 275521137" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desks</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDesk - NamedType CashDeskNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3709738723 - NamedType 2564833490" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Set up individual cash desks. For individual cash desk, you can set up No. Series, Cash desk users, etc.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDesk - NamedType CashDeskDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3709738723 - NamedType 640536270" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDesk - NamedType CashDeskKeywordsTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 292559287 - NamedType 156115317" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk Events</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDeskEvent - NamedType CashDeskEventNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 292559287 - NamedType 2690956470" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Define posting and VAT for cash events.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDeskEvent - NamedType CashDeskEventDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 292559287 - NamedType 3915743690" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk, Event, Receipt, Withdrawal</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterCashDeskEvent - NamedType CashDeskEventKeywordsTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3698427920 - NamedType 913198239" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Currency Nominal Values</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterNominalValue - NamedType CurrencyNominalValueNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3698427920 - NamedType 3109490256" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Define the currency values used in the cash registers.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterNominalValue - NamedType CurrencyNominalValueDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 3698427920 - NamedType 1748807548" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cash Desk, Currency, Banknote, Coin</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterNominalValue - NamedType CurrencyNominalValueKeywordsTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 1024093824 - NamedType 2350325743" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Payment Methods</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterPaymentMethod - NamedType CurrencyPaymentMethodNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 1024093824 - NamedType 2248512800" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Define the payment methods used in the documents.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterPaymentMethod - NamedType CurrencyPaymentMethodDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1923689640 - Method 1024093824 - NamedType 2823439564" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Payment, Cash Desk</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZP - Method RegisterPaymentMethod - NamedType CurrencyPaymentMethodKeywordsTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 448781786 - Method 245105598 - NamedType 400615531" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cash Desk Ledger Entry</source>
@@ -6807,6 +6807,21 @@
           <source>Prepayment</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">EnumExtension EET Applied Document Type CZP - EnumValue Prepayment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1995578528 - EnumValue 1415786139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 4244706559">
+          <source>Cash Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension Manual Setup Category CZP - EnumValue Cash Desk CZP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1011356315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Cash Desk - Edit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Cash Desk - Edit CZP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1447313689 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Cash Desk - Read</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Cash Desk - Read CZP - Property Caption</note>
         </trans-unit>
       </group>
     </body>

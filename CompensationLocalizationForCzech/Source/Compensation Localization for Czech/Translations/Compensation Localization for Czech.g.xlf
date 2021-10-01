@@ -648,6 +648,21 @@
           <note from="Developer" annotates="general" priority="2">%1 = Template Name, %2 = Batch Name, %3 = Line No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Customer Handler CZC - Method CheckCompensationOnBeforeValidateOnHold - NamedType OnHoldErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3175679582 - Method 3014444459 - NamedType 2325625513" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensations Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZC - Method RegisterCompensationsSetup - NamedType CompensationsSetupNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3175679582 - Method 3014444459 - NamedType 825296170" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up method, numbering and posting compensation of receivables and payables.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZC - Method RegisterCompensationsSetup - NamedType CompensationsSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3175679582 - Method 3014444459 - NamedType 931204470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compensations, Credits, Receivables, Payables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Guided Experience Handler CZC - Method RegisterCompensationsSetup - NamedType CompensationsSetupKeywordsTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1319708387 - Method 1545708818 - NamedType 2202301896" maxwidth="10" size-unit="char" translate="yes" xml:space="preserve">
           <source>COMPENS</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -657,21 +672,6 @@
           <source>Compensation Evidence</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Install Application CZC - Method InitCompensationSourceCode - NamedType CompensationSourceDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 4174597537 - Method 1933344530 - NamedType 2325625513" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Compensations Setup</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZC - Method RegisterCmpensationsSetup - NamedType CompensationsSetupNameTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 4174597537 - Method 1933344530 - NamedType 825296170" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Set up method, numbering and posting compensation of receivables and payables.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZC - Method RegisterCmpensationsSetup - NamedType CompensationsSetupDescriptionTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 4174597537 - Method 1933344530 - NamedType 931204470" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Compensations, Credits, Receivables, Payables</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Manual Setup Handler CZC - Method RegisterCmpensationsSetup - NamedType CompensationsSetupKeywordsTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 148903215 - Method 4276549235 - NamedType 254650671" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Compensation</source>
@@ -747,11 +747,6 @@
           <source>Specifies the amount of the entry in LCY.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Compens. Cust. LE Subform CZC - Control Amount (LCY) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2900022699 - Control 546208890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the amount on payment order.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Compens. Cust. LE Subform CZC - Control Amount on Payment Order (LCY) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2900022699 - Control 1891586249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the balancing account number used on the entry.</source>
@@ -997,11 +992,6 @@
           <source>Specifies the amount of the entry in LCY.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Compens. Vendor LE Subform CZC - Control Amount (LCY) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2798928406 - Control 546208890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the amount on payment order.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Compens. Vendor LE Subform CZC - Control Amount on Payment Order (LCY) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2798928406 - Control 1891586249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the balancing account number used on the entry.</source>
@@ -2992,6 +2982,21 @@
           <source>Compensation</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">EnumExtension Incoming Related Doc. Type CZC - EnumValue Compensation CZC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1020063865 - EnumValue 3950432719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 4244706559">
+          <source>Compensations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension Manual Setup Category CZC - EnumValue Compensations CZC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2201055530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Compensation - Edit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Compensation - Edit CZC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2190166588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CZ Compensation - Read</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CZ Compensation - Read CZC - Property Caption</note>
         </trans-unit>
       </group>
     </body>
