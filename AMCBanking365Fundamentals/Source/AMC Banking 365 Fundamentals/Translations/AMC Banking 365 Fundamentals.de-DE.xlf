@@ -605,6 +605,7 @@
         </trans-unit>
         <trans-unit id="Page 2582853259 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assist Bank Account - Property Caption</note>
         </trans-unit>
@@ -616,6 +617,7 @@
         </trans-unit>
         <trans-unit id="Page 2582853259 - Control 739346273 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assist Bank Account - Control Group - Property Caption</note>
         </trans-unit>
@@ -674,6 +676,7 @@
         </trans-unit>
         <trans-unit id="Page 1294546084 - Control 197703991 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Control MediaResourcesDone - Property ToolTip</note>
         </trans-unit>
@@ -684,6 +687,7 @@
         </trans-unit>
         <trans-unit id="Page 1294546084 - Control 2390380970 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Control MediaResourcesStandard - Property ToolTip</note>
         </trans-unit>
@@ -759,6 +763,7 @@
         </trans-unit>
         <trans-unit id="Page 1294546084 - Control 2279239964 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>  </source>
+          <target state="translated">  </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Control Step2 - Property Caption</note>
         </trans-unit>
@@ -817,6 +822,7 @@
         </trans-unit>
         <trans-unit id="Page 1294546084 - Control 2099105517 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>  </source>
+          <target state="translated">  </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Control UpdBankClearGrp - Property Caption</note>
         </trans-unit>
@@ -852,6 +858,7 @@
         </trans-unit>
         <trans-unit id="Page 1294546084 - Control 1107564148 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>  </source>
+          <target state="translated">  </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Control UpdPayMethGrp - Property Caption</note>
         </trans-unit>
@@ -1003,6 +1010,7 @@
         </trans-unit>
         <trans-unit id="Page 1294546084 - Control 1177833522 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Control Business - Property Caption</note>
         </trans-unit>
