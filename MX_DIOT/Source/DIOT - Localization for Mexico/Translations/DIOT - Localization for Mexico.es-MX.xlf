@@ -191,7 +191,7 @@
         </trans-unit>
         <trans-unit id="Table 3444493240 - Field 3440505640 - Property 62802879" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Prof. Services,Lease and Rent,Others</source>
-          <target state="translated">Servicios prof.,Arrendamiento y alquiler,Otros</target>
+          <target state="translated">Servicios Profs,Arrendamiento y alquiler,Otros</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table DIOT Report Vendor Buffer - Field Type of Operation - Property OptionCaption</note>
         </trans-unit>

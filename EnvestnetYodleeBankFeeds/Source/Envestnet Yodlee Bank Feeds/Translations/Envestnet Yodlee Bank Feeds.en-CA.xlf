@@ -809,6 +809,7 @@
         </trans-unit>
         <trans-unit id="Page 377249609 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - Yodlee Access Consent - Property Caption</note>
         </trans-unit>
@@ -820,11 +821,13 @@
         </trans-unit>
         <trans-unit id="Page 377249609 - Control 2029839919 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - Yodlee Access Consent - Control BankAccountAccessConsent - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3194416848 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - Yodlee Account Linking - Property Caption</note>
         </trans-unit>
@@ -836,6 +839,7 @@
         </trans-unit>
         <trans-unit id="Page 3194416848 - Control 3064886161 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - Yodlee Account Linking - Control BankAccountLink - Property Caption</note>
         </trans-unit>
@@ -1171,6 +1175,7 @@
         </trans-unit>
         <trans-unit id="Page 2665008762 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - Yodlee Get Latest Stmt - Property Caption</note>
         </trans-unit>
@@ -1182,6 +1187,7 @@
         </trans-unit>
         <trans-unit id="Page 2665008762 - Control 4128929233 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source> </source>
+          <target state="translated"> </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - Yodlee Get Latest Stmt - Control BankAccountLinking - Property Caption</note>
         </trans-unit>
